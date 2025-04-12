@@ -1,0 +1,50 @@
+{
+  "name": "Ace of Swords",
+  "number": "1",
+  "arcana": "Minor Arcana",
+  "suit": "Swords",
+  "img": "2.jpg",
+  "fortune_telling": [
+    "Đã đến lúc đưa ra quyết định",
+    "Ngừng do dự và làm điều bạn biết là đúng",
+    "Lắng nghe cả trái tim lẫn lý trí – đôi khi, cảm xúc cũng là dữ liệu quan trọng!"
+  ],
+  "keywords": [
+    "lý trí",
+    "khách quan",
+    "trí tuệ",
+    "lựa chọn"
+  ],
+  "meanings": {
+    "light": [
+      "Đưa ra quyết định một cách khách quan",
+      "Áp dụng tư duy logic để giải quyết vấn đề",
+      "Sử dụng lý luận để thoát khỏi tình huống khó khăn",
+      "Giải quyết các câu đố và vấn đề phức tạp",
+      "Suy nghĩ thấu đáo trước khi hành động",
+      "Tập trung vào sự thật và dữ liệu thực tế",
+      "Giữ tâm trí tỉnh táo, không để cảm xúc lấn át",
+      "Tìm kiếm sự rõ ràng và minh bạch trong mọi tình huống"
+    ],
+    "shadow": [
+      "Sử dụng logic một cách cứng nhắc hoặc lạnh lùng",
+      "Tự cao về trí tuệ của bản thân, xem thường người khác",
+      "Dùng sự nhạy bén để lừa dối hoặc gây nhầm lẫn",
+      "Nhầm lẫn giữa phán đoán vội vàng và tư duy nhanh nhạy",
+      "Đưa ra quyết định mà không cân nhắc hậu quả",
+      "Đánh giá vấn đề chỉ dựa trên lý trí mà bỏ qua cảm xúc",
+      "Bị mắc kẹt trong những phân tích vô tận mà không hành động"
+    ]
+  },
+  "Numerology": "1 (Khởi nguồn: điểm bắt đầu, hạt giống, cơ hội)",
+  "Astrology": "Thiên Bình, Bảo Bình, Song Tử - Bộ ba cung khí: Thiên Bình cân nhắc mọi khía cạnh đến mức mất ngủ, Bảo Bình sáng tạo ra ý tưởng đi trước thời đại nhưng ít ai hiểu, còn Song Tử thì lập luận nhanh đến mức chính họ cũng quên mất mình chọn gì!",
+  "Affirmation": "\"Tôi dành thời gian để suy nghĩ thấu đáo.\"",
+  "Questions to Ask": [
+    "Nếu tôi đưa ra quyết định chỉ dựa trên lý trí, thì tôi sẽ chọn gì?",
+    "Tôi đánh giá khả năng giải quyết vấn đề của mình như thế nào?",
+    "Ai có thể cung cấp cho tôi những thông tin chính xác và khách quan nhất?",
+    "Tôi có đang do dự vì sợ hãi hay vì tôi thực sự cần thêm thời gian?",
+    "Làm thế nào để cân bằng giữa lý trí và cảm xúc trong quyết định của mình?",
+    "Tôi có đang để cảm xúc che lấp sự thật không?"
+  ]
+}

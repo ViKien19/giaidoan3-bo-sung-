@@ -1,0 +1,45 @@
+{
+  "name": "Thế Giới (The World)",
+  "number": "21",
+  "arcana": "Ẩn Chính (Major Arcana)",
+  "suit": "Trump",
+  "img": "68.jpg",
+  "fortune_telling": [
+    "Trúng xổ số",
+    "Đạt được điều mà trái tim bạn mong muốn",
+    "Có được mọi thứ mà bạn từng tưởng tượng"
+  ],
+  "keywords": [
+    "sự trọn vẹn",
+    "sự hợp nhất",
+    "tính toàn thể",
+    "sự hoàn chỉnh",
+    "sự đầy đủ"
+  ],
+  "meanings": {
+    "light": [
+      "Có được tất cả",
+      "Biết và yêu bản thân một cách trọn vẹn nhất có thể",
+      "Nhận ra sự kết nối giữa mọi sự vật và con người",
+      "Mở rộng tầm nhìn",
+      "Sống cuộc sống một cách trọn vẹn",
+      "Hiểu được ý nghĩa của cuộc đời"
+    ],
+    "shadow": [
+      "Để lòng tham và sự ghen tị ngăn cản bạn tận hưởng những gì mình đang có",
+      "Không nhận ra thiết kế lớn lao ẩn chứa trong những sự kiện bình thường",
+      "Tin rằng mọi thứ tồn tại đều có thể chạm vào, đếm hoặc đo lường được",
+      "Không nhìn thấy sự thiêng liêng phản chiếu trong những người xung quanh"
+    ]
+  },
+  "Archetype": "Giác ngộ",
+  "Hebrew Alphabet": "Tau/Thập tự/400",
+  "Numerology": "21 = 2 + 1 = 3 (biểu đạt, kết quả)",
+  "Elemental": "Sao Thổ",
+  "Mythical/Spiritual": "Đức Kitô thăng thiên. Đức Phật đạt giác ngộ. Alpha và Omega. Sự hoàn thành của công trình vĩ đại của nhà giả kim.",
+  "Questions to Ask": [
+    "Với tôi, 'có tất cả' có nghĩa là gì?",
+    "Tôi nhận thức được mức độ kết nối của mình với thế giới xung quanh đến đâu?",
+    "Điều gì đang ngăn cản tôi có tất cả ngay lúc này, ngay hôm nay?"
+  ]
+}

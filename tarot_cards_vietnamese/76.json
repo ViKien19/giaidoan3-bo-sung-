@@ -1,0 +1,42 @@
+{
+  "name": "Hai Gậy (Two of Wands)",
+  "number": "2",
+  "arcana": "Ẩn Phụ (Minor Arcana)",
+  "suit": "Gậy (Wands)",
+  "img": "76.jpg",
+  "fortune_telling": [
+    "Cẩn thận với bạn bè giả dối",
+    "Đừng ngại nói lên suy nghĩ của mình và làm điều bạn muốn"
+  ],
+  "keywords": [
+    "xung đột",
+    "quyết định",
+    "lựa chọn",
+    "cá tính"
+  ],
+  "meanings": {
+    "light": [
+      "Đứng trước một lựa chọn",
+      "Đưa ra hoặc được trao cho một cơ hội",
+      "Nhận ra giá trị của cách tiếp cận khác",
+      "Hiểu rằng có nhiều hơn một cách để giải quyết vấn đề",
+      "Thành công trong việc làm nhiều việc cùng lúc",
+      "Có quyền quyết định và đưa ra lựa chọn"
+    ],
+    "shadow": [
+      "Che giấu ý định thật sự",
+      "Làm một đằng nhưng lại mong muốn một nẻo",
+      "Thay đổi hướng đi giữa chừng mà không có lý do chính đáng",
+      "Cố chấp theo đuổi một mục tiêu ngay cả khi nó không còn ý nghĩa",
+      "Phớt lờ ý kiến của người khác"
+    ]
+  },
+  "Numerology": "2 (Người khác: chia rẽ, tranh luận, nhị nguyên)",
+  "Astrology": "Hỏa Tinh trong Bạch Dương (Mars in Aries)",
+  "Affirmation": "\"Với mục tiêu trong tâm trí, tôi đưa ra những lựa chọn đầy tự tin.\"",
+  "Questions to Ask": [
+    "Trong một cuộc xung đột, bạn quyết định ai là người thắng thế như thế nào?",
+    "Những giá trị nào ảnh hưởng đến quá trình ra quyết định của bạn?",
+    "Nếu bạn không đưa ra lựa chọn nào cả, điều gì sẽ xảy ra?"
+  ]
+}

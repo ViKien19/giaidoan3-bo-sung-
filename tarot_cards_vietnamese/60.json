@@ -1,0 +1,47 @@
+{
+  "name": "Nhà Tư Tưởng (The Hierophant)",
+  "number": "5",
+  "arcana": "Ẩn Chính (Major Arcana)",
+  "suit": "Trump",
+  "img": "60.jpg",
+  "fortune_telling": [
+    "Dự đoán bạn sẽ bị bắt gặp trong một hành vi sai trái và bị trừng phạt tương ứng",
+    "Hãy cầu xin sự tha thứ và thú nhận những việc làm sai trái",
+    "Một người đàn ông có kinh nghiệm hơn, người dẫn dắt tinh thần hoặc hình mẫu cha sẽ xuất hiện trong cuộc đời bạn"
+  ],
+  "keywords": [
+    "hướng dẫn",
+    "kiến thức",
+    "mạc khải",
+    "niềm tin"
+  ],
+  "meanings": {
+    "light": [
+      "Dạy dỗ hoặc hướng dẫn người khác",
+      "Tìm kiếm sự thật",
+      "Yêu cầu sự hướng dẫn từ một quyền lực cao hơn",
+      "Thừa nhận sự khôn ngoan và kinh nghiệm của người khác",
+      "Thực hiện lời thề",
+      "Tham gia vào các nghi thức đầy tâm huyết",
+      "Tình nguyện"
+    ],
+    "shadow": [
+      "Dùng kinh nghiệm để thao túng hoặc lừa dối người khác",
+      "Cứng nhắc, bảo thủ",
+      "Ưu tiên truyền thống hơn là điều thiết yếu hoặc cần thiết",
+      "Chỉ làm theo các nghi thức một cách hình thức",
+      "Che giấu sự khôn ngoan",
+      "Hạn chế quyền truy cập vào những sự thật tâm linh hoặc các vị thần"
+    ]
+  },
+  "Archetype": "Người bảo vệ/ Nhà thờ/ Niềm tin",
+  "Hebrew Alphabet": "Vau/Đinh hoặc Cọc/6",
+  "Numerology": "5 (bất ổn, kháng cự, đối đầu, tiến hóa)",
+  "Elemental": "Kim Ngưu/Đất",
+  "Mythical/Spiritual": "Chúa Kitô, Thánh Tông Đồ Phêrô, Đức Phật, Mohammed. Các vị Giáo hoàng, linh mục và người làm trung gian của mọi tôn giáo và truyền thống",
+  "Questions to Ask": [
+    "Truyền thống hoặc tôn giáo có vai trò gì trong tình huống này?",
+    "Ai là người sáng lập các quy tắc? Ai thi hành chúng? Tại sao?",
+    "Một người hướng dẫn có kinh nghiệm sẽ tác động như thế nào trong tình huống này?"
+  ]
+}

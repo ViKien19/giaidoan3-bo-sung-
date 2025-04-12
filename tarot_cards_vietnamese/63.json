@@ -1,0 +1,44 @@
+{
+  "name": "Nhà Ảo Thuật (The Magician)",
+  "number": "1",
+  "arcana": "Ẩn Chính (Major Arcana)",
+  "suit": "Trump",
+  "img": "63.jpg",
+  "fortune_telling": [
+    "Một người đàn ông quyền lực có thể ảnh hưởng đến ngày hôm nay của bạn",
+    "Tình huống hiện tại chỉ là một phần của kế hoạch lớn hơn"
+  ],
+  "keywords": [
+    "năng lực",
+    "sự trao quyền",
+    "hành động"
+  ],
+  "meanings": {
+    "light": [
+      "Hành động một cách đúng đắn",
+      "Nhận được sự hướng dẫn từ một sức mạnh cao hơn",
+      "Trở thành kênh truyền tải ý chí thiêng liêng",
+      "Thể hiện năng lượng nam tính một cách phù hợp và tích cực",
+      "Sống đúng với con người thật của mình"
+    ],
+    "shadow": [
+      "Tự cao quá mức",
+      "Lạm dụng tài năng",
+      "Lừa dối hoặc thao túng người khác",
+      "Hành động quá hung hăng",
+      "Dùng những ảo thuật rẻ tiền để gây ấn tượng",
+      "Lười biếng, không dành đủ thời gian và công sức để thành thạo kỹ năng",
+      "Chọn con đường tắt thay vì nỗ lực thực sự"
+    ]
+  },
+  "Archetype": "Cái Tôi / Bản Ngã",
+  "Hebrew Alphabet": "Beth/Nhà/2",
+  "Numerology": "1 (khởi nguồn, sự thống nhất, hạt giống)",
+  "Elemental": "Mặt Trời / Sao Thủy",
+  "Mythical/Spiritual": "Thoth, vị thần trí tuệ của Ai Cập, còn được người Hy Lạp biết đến là Hermes và người La Mã gọi là Mercury. Chúa Jesus làm phép lạ. Brahma, vị thần Sáng Tạo trong Ấn Độ giáo.",
+  "Questions to Ask": [
+    "Tôi có khả năng làm gì?",
+    "Những tài năng của tôi có thể phát huy ra sao?",
+    "Tôi đã tận dụng tối đa khả năng của mình đến mức nào?"
+  ]
+}

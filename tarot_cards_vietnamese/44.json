@@ -1,0 +1,44 @@
+{
+  "name": "Sáu Tiền (Six of Pentacles)",
+  "number": "6",
+  "arcana": "Ẩn Phụ (Minor Arcana)",
+  "suit": "Tiền (Pentacles)",
+  "img": "44.jpg",
+  "fortune_telling": [
+    "Khi bạn cần sự giúp đỡ, hãy yêu cầu nó",
+    "Tuy nhiên, hãy nhớ rằng: những gì bạn nhận được có thể bị giới hạn bởi những gì bạn đã cho đi trong quá khứ"
+  ],
+  "keywords": [
+    "từ thiện",
+    "công bằng",
+    "hợp tác",
+    "chia sẻ"
+  ],
+  "meanings": {
+    "light": [
+      "Cho đi thời gian, tiền bạc hoặc công sức cho một tổ chức từ thiện",
+      "Tham gia vào nỗ lực nhóm",
+      "Cho mượn tài nguyên của bạn cho người khác mà không mong đợi gì đáp lại",
+      "Đảm bảo mọi người đều được đối xử công bằng",
+      "Cùng nhau làm việc hướng tới một mục tiêu chung",
+      "Phân phối lại sự giàu có, thời gian, hoặc sự chú ý",
+      "Tặng một phần thu nhập",
+      "Chia sẻ thành công của bạn"
+    ],
+    "shadow": [
+      "Cho vay như một cách để kiểm soát người khác",
+      "Dùng hành động từ thiện để thu hút sự chú ý về bản thân",
+      "Phân chia công việc hoặc tài nguyên không công bằng",
+      "Không hoàn thành phần việc của mình trong một nỗ lực nhóm",
+      "Phớt lờ các nghĩa vụ và cam kết"
+    ]
+  },
+  "Numerology": "6 (Sự điều chỉnh: hợp tác, cộng tác, tương tác)",
+  "Astrology": "Mặt Trăng trong Kim Ngưu",
+  "Affirmation": "\"Biết rằng tôi sẽ nhận lại nhiều hơn, tôi chia sẻ tài nguyên của mình một cách tự do.\"",
+  "Questions to Ask": [
+    "Tôi cảm thấy thế nào về từ thiện? Về việc cho đi? Về việc nhận lại?",
+    "Làm thế nào tôi có thể biết nếu mình đối xử công bằng với người khác?",
+    "Tôi có thể cho đi điều gì mà không ai khác có thể?"
+  ]
+}

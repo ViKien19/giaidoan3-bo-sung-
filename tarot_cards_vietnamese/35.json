@@ -1,0 +1,40 @@
+{
+  "name": "Nữ Hoàng Cốc (Queen of Cups)",
+  "number": "13",
+  "arcana": "Ẩn Phụ (Minor Arcana)",
+  "suit": "Cốc (Cups)",
+  "img": "35.jpg",
+  "fortune_telling": [
+    "Lá bài này đại diện cho một người phụ nữ có bản chất sâu sắc về mặt cảm xúc và tâm linh, có thể sinh từ ngày 11 tháng 6 đến ngày 11 tháng 7, người sử dụng sức ảnh hưởng về mặt cảm xúc và tâm linh để thuyết phục người khác theo quan điểm của mình"
+  ],
+  "keywords": [
+    "sâu sắc",
+    "tâm linh",
+    "lòng trắc ẩn",
+    "đồng cảm",
+    "trực giác"
+  ],
+  "meanings": {
+    "light": [
+      "Cho phép bản thân cảm nhận và thấu hiểu nỗi đau của người khác",
+      "Trải nghiệm những cảm xúc mãnh liệt",
+      "Sở hữu sự đồng cảm và thấu hiểu khác thường",
+      "Tin tưởng vào cảm xúc của mình để định hướng hành động",
+      "Sử dụng khả năng tâm linh",
+      "Đạt được sự hòa hợp với Tâm Linh"
+    ],
+    "shadow": [
+      "Quá đắm chìm vào thế giới tâm linh đến mức tách rời thực tại",
+      "Để sự đồng cảm khiến mình trở nên yếu đuối thay vì thúc đẩy hành động",
+      "Sử dụng khả năng tâm linh để thao túng người khác",
+      "Chìm đắm trong cảm xúc, sự ủy mị hoặc tự thương hại"
+    ]
+  },
+  "Elemental": "Nước trong Nước (Water of Water).",
+  "Affirmation": "Tôi chọn để cảm xúc của mình trở thành sức mạnh, không phải điểm yếu.",
+  "Questions to Ask": [
+    "Tôi đối mặt với những cảm xúc mãnh liệt như thế nào?",
+    "Mức độ nào tôi đang trở thành nạn nhân của chính cảm xúc của mình?",
+    "Làm sao để tôi chuyển từ suy ngẫm sang hành động?"
+  ]
+}

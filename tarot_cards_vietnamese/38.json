@@ -1,0 +1,38 @@
+{
+  "name": "Nữ Hoàng Gậy (Queen of Wands)",
+  "number": "13",
+  "arcana": "Ẩn Phụ (Minor Arcana)",
+  "suit": "Gậy (Wands)",
+  "img": "38.jpg",
+  "fortune_telling": [
+    "Lá bài này đại diện cho một người phụ nữ có tính cách hấp dẫn, cuốn hút, có thể sinh từ ngày 11 tháng 3 đến ngày 20 tháng 4, người muốn quyến rũ bạn để làm mọi thứ theo cách của cô ấy"
+  ],
+  "keywords": [
+    "sự chú ý",
+    "sự thu hút",
+    "sự thống nhất",
+    "hợp tác"
+  ],
+  "meanings": {
+    "light": [
+      "Chú ý kỹ lưỡng",
+      "Giúp người khác tập trung vào vấn đề hiện tại",
+      "Khiến mọi người làm việc cùng nhau",
+      "Tìm kiếm điểm chung",
+      "Tập hợp mọi người lại, bất chấp sự khác biệt của họ",
+      "Sử dụng tâm lý ngược"
+    ],
+    "shadow": [
+      "Bị phân tâm, hoặc sử dụng sự quyến rũ hoặc kỹ năng của mình để làm phân tâm người khác khỏi mục tiêu",
+      "Kêu gọi sự chú ý đến bản thân bằng những hành vi tiêu cực hoặc không lành mạnh",
+      "Phá vỡ các hoạt động nhóm như một cách nuôi dưỡng cái tôi của bản thân"
+    ]
+  },
+  "Elemental": "Nước trong Lửa (Water of Fire).",
+  "Affirmation": "\"Tôi sử dụng ảnh hưởng của mình để thúc đẩy sự thống nhất.\"",
+  "Questions to Ask": [
+    "Tôi chú ý đến mức độ nào?",
+    "Làm thế nào để tôi thu hút sự chú ý của mọi người vào những gì chúng ta có chung?",
+    "Tôi có thể thuyết phục mọi người làm những gì tôi muốn đến mức độ nào?"
+  ]
+}

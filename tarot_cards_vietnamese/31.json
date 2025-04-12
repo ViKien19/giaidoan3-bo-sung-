@@ -1,0 +1,42 @@
+{
+  "name": "Tiểu Đồng Cốc (Page of Cups)",
+  "number": "11",
+  "arcana": "Ẩn Phụ (Minor Arcana)",
+  "suit": "Cốc (Cups)",
+  "img": "31.jpg",
+  "fortune_telling": [
+    "Lá bài này đại diện cho một chàng trai hoặc cô gái trẻ có vẻ ngoài mộng mơ, có thể thuộc cung Thiên Bình, Bọ Cạp hoặc Nhân Mã, người đang muốn bắt đầu một mối quan hệ mới với bạn"
+  ],
+  "keywords": [
+    "nhiệt huyết",
+    "ấn tượng ban đầu",
+    "chủ nghĩa lãng mạn",
+    "hời hợt"
+  ],
+  "meanings": {
+    "light": [
+      "Thể hiện cảm xúc một cách tự nhiên",
+      "Hết mình trong tình yêu",
+      "Thầm thương trộm nhớ ai đó",
+      "Đắm chìm trong những tưởng tượng lãng mạn",
+      "Bắt đầu một mối quan hệ mới",
+      "Hồi tưởng về mối tình đầu",
+      "Trải nghiệm tình yêu lần đầu tiên",
+      "Cải đạo hoặc tìm thấy niềm tin mới"
+    ],
+    "shadow": [
+      "Nhầm lẫn giữa say nắng và tình yêu đích thực",
+      "Hiểu sai hành động vô tư là dấu hiệu của tình cảm lãng mạn",
+      "Cố gắng quá mức để gây ấn tượng với người khác",
+      "Đắm chìm trong sự ủy mị quá mức",
+      "Giả vờ có nhiều kinh nghiệm về tình yêu hoặc tâm linh hơn thực tế"
+    ]
+  },
+  "Elemental": "Đất trong Nước (Earth of Water).",
+  "Affirmation": "Tôi sẵn sàng đón nhận tình yêu và tâm linh.",
+  "Questions to Ask": [
+    "Bạn có lo lắng rằng người khác sẽ thấy bạn ngây thơ hoặc thiếu kinh nghiệm không?",
+    "Bạn có thể thành thật đến mức nào về sự thiếu kinh nghiệm của mình trong tình yêu và niềm tin?",
+    "Làm thế nào để duy trì sự nhiệt huyết theo thời gian?"
+  ]
+}

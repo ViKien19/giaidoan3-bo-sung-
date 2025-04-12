@@ -1,0 +1,40 @@
+{
+  "name": "Ba of Cups",
+  "number": "3",
+  "arcana": "Minor Arcana",
+  "suit": "Cups",
+  "img": "69.jpg",
+  "fortune_telling": [
+    "Một mối tình lãng mạn không theo lẽ thường đang đến với bạn: một chuyện tình với người mà bạn từng xem nhẹ"
+  ],
+  "keywords": [
+    "ăn mừng",
+    "biểu đạt",
+    "cộng đồng",
+    "thân thiện"
+  ],
+  "meanings": {
+    "light": [
+      "Ăn mừng cảm xúc hoặc mối quan hệ với người khác",
+      "Thể hiện niềm vui qua ca hát, khiêu vũ hoặc sự tiếp xúc thân mật",
+      "Hợp tác với những người có chung cảm xúc",
+      "Thể hiện tình yêu qua hành động phục vụ",
+      "Chấp nhận những mối quan hệ tình cảm không theo khuôn mẫu truyền thống"
+    ],
+    "shadow": [
+      "Nhầm lẫn giữa sự hưng phấn nhất thời với tình yêu đích thực",
+      "Bị cảm xúc cao trào chi phối",
+      "Mong muốn người khác luôn có cảm xúc giống mình",
+      "Đòi hỏi sự ủng hộ quá mức từ gia đình và bạn bè",
+      "Tiệc tùng quá độ đến mức gây hại"
+    ]
+  },
+  "Numerology": "3 (Kết quả: biểu đạt, năng suất, thành quả)",
+  "Astrology": "Mercury ở Cự Giải",
+  "Affirmation": "\"Tôi để hành động phản ánh cảm xúc chân thực của mình.\"",
+  "Questions to Ask": [
+    "Điều gì trong cuộc sống của tôi đáng để ăn mừng?",
+    "Làm sao tôi có thể thể hiện cảm xúc của mình một cách phù hợp?",
+    "Tôi có thể làm gì để bày tỏ tình cảm với người mình yêu?"
+  ]
+}

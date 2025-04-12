@@ -1,0 +1,47 @@
+{
+  "name": "Điều Tiết (Temperance)",
+  "number": "14",
+  "arcana": "Ẩn Chính (Major Arcana)",
+  "suit": "Trump",
+  "img": "48.jpg",
+  "fortune_telling": [
+    "Có người đang lạm dụng ma túy hoặc rượu",
+    "Đã đến lúc quay lại với chế độ ăn kiêng"
+  ],
+  "keywords": [
+    "pha trộn",
+    "tổng hợp",
+    "hoà giải",
+    "kết hợp",
+    "hài hòa"
+  ],
+  "meanings": {
+    "light": [
+      "Kết hợp những điều đối lập",
+      "Điều chỉnh hành động hoặc cảm xúc của bạn",
+      "Tìm kiếm sự đồng thuận",
+      "Đạt được sự thoả hiệp",
+      "Tổng hợp các giải pháp khiến tất cả mọi người hài lòng",
+      "Sử dụng cái cũ để tạo ra cái mới"
+    ],
+    "shadow": [
+      "Đi đến những cực đoan",
+      "Gây rối loạn trong các nỗ lực nhóm",
+      "Phớt lờ những cách tiếp cận lành mạnh trong cuộc sống",
+      "Trở thành người nghiện",
+      "Thực hành tham lam",
+      "Xé nát một thứ gì đó hoặc ai đó",
+      "Phá vỡ liên minh"
+    ]
+  },
+  "Archetype": "Người Hòa Giải (The Mediator)",
+  "Hebrew Alphabet": "Samekh/Nền Tảng/60",
+  "Numerology": "14 = 1 + 4 = 5 (chất xúc tác, bất ổn, đối đầu)",
+  "Elemental": "Nhân Mã",
+  "Mythical/Spiritual": "Thiên thần trong hình ảnh này có thể là nữ thần Iris. Mở rộng ra, các linh mục, thần thánh, hoặc Chúa Kitô biến hình.",
+  "Questions to Ask": [
+    "Làm thế nào để tôi tránh được các cực đoan?",
+    "Mọi người tham gia có điểm chung gì?",
+    "Làm thế nào việc kết hợp những điều quen thuộc giúp tôi tạo ra cái mới?"
+  ]
+}

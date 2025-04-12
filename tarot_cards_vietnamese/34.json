@@ -1,0 +1,40 @@
+{
+  "name": "Tiểu Đồng Gậy (Page of Wands)",
+  "number": "11",
+  "arcana": "Ẩn Phụ (Minor Arcana)",
+  "suit": "Gậy (Wands)",
+  "img": "34.jpg",
+  "fortune_telling": [
+    "Lá bài này đại diện cho một chàng trai hoặc cô gái trẻ có tính cách sôi nổi, nhiệt huyết, có thể thuộc cung Cự Giải, Sư Tử hoặc Xử Nữ, người muốn bắt đầu một mối quan hệ mới với bạn"
+  ],
+  "keywords": [
+    "nhiệt huyết",
+    "háo hức",
+    "tự tin",
+    "công nhận",
+    "khẳng định"
+  ],
+  "meanings": {
+    "light": [
+      "Chớp lấy một cơ hội mới",
+      "Là người ủng hộ nhiệt tình hoặc cổ động viên cho lý tưởng của bạn",
+      "Trở thành một tín đồ thực sự",
+      "Bước những bước đầu tiên hướng đến sự độc lập",
+      "Tin tưởng vào khả năng của bản thân",
+      "Yêu cầu nhận xét, phản hồi"
+    ],
+    "shadow": [
+      "Đánh giá toàn bộ bản thân dựa trên suy nghĩ của người khác",
+      "Chấp nhận mọi ý tưởng mới mà không cần suy xét",
+      "Thường xuyên bỏ qua ý kiến hoặc phản hồi từ người khác",
+      "Quá háo hức muốn \"tự làm mọi thứ\" đến mức cản trở tiến bộ của chính mình"
+    ]
+  },
+  "Elemental": "Đất trong Lửa (Earth of Fire).",
+  "Affirmation": "Tôi có thể làm được.",
+  "Questions to Ask": [
+    "Bạn có dễ dàng thừa nhận sự non nớt hoặc thiếu kinh nghiệm của mình không?",
+    "Làm thế nào để bạn trở thành một học viên hoặc nhân viên tốt hơn?",
+    "Những phẩm chất nào sẽ giúp một người mới bắt đầu hành trình khám phá dễ dàng hơn?"
+  ]
+}

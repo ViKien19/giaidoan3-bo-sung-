@@ -1,0 +1,47 @@
+{
+  "name": "Ace of Wands",
+  "number": "1",
+  "arcana": "Minor Arcana",
+  "suit": "Wands",
+  "img": "3.jpg",
+  "fortune_telling": [
+    "Ai đó đang để ý đến bạn",
+    "Một cơ hội việc làm mới sắp đến",
+    "Hãy hành động khéo léo nhưng vẫn giữ vững lập trường",
+    "Tin vào trực giác, nhưng đừng bỏ qua sự thật"
+  ],
+  "keywords": [
+    "khát vọng",
+    "cảm hứng",
+    "tầm nhìn",
+    "sáng tạo",
+    "phát minh"
+  ],
+  "meanings": {
+    "light": [
+      "Cảm thấy được truyền cảm hứng",
+      "Xác định một mục tiêu quan trọng",
+      "Được trao cơ hội để làm điều mình thực sự muốn",
+      "Nhận hoặc đưa ra chỉ dẫn đúng đắn",
+      "Nhìn thấy giải pháp rõ ràng",
+      "Tạo ra điều mới mẻ",
+      "Cảm giác bùng cháy – cả về sáng tạo lẫn cảm xúc"
+    ],
+    "shadow": [
+      "Bỏ lỡ một cơ hội tuyệt vời",
+      "Thiếu quyết đoán hoặc lười biếng",
+      "Nỗ lực không đủ để đạt được mục tiêu",
+      "Có tham vọng nhưng thiếu tài nguyên hoặc động lực để thành công",
+      "Đặt ra mục tiêu không phù hợp",
+      "Không dám đứng lên bảo vệ quan điểm của mình"
+    ]
+  },
+  "Numerology": "1 (Khởi nguồn: điểm bắt đầu, hạt giống, cơ hội)",
+  "Astrology": "Bạch Dương, Sư Tử, Nhân Mã – Bộ ba cung Lửa: Bạch Dương thì lao vào hành động mà không nghĩ, Sư Tử luôn muốn tỏa sáng như ngọn đuốc giữa đêm, còn Nhân Mã? Họ nhắm vào mục tiêu xa đến mức đôi khi quên mất cung tên của mình ở đâu!",
+  "Affirmation": "\"Tôi nắm lấy cơ hội để theo đuổi đam mê của mình.\"",
+  "Questions to Ask": [
+    "Tôi thực sự mong muốn điều gì hơn tất cả?",
+    "Chuyện gì sẽ xảy ra nếu tôi để cơ hội này trôi qua?",
+    "Tôi đã xác định rõ ràng hướng đi, giá trị và mục tiêu của mình chưa?"
+  ]
+}

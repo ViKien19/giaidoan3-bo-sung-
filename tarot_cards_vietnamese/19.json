@@ -1,0 +1,45 @@
+{
+  "name": "Vua Cốc (King of Cups)",
+  "number": "14",
+  "arcana": "Ẩn Phụ (Minor Arcana)",
+  "suit": "Cốc (Cups)",
+  "img": "19.jpg",
+  "fortune_telling": [
+    "Lá bài này đại diện cho một người đàn ông lớn tuổi với sự hiện diện dịu dàng, nhạy cảm, có thể sinh từ ngày 9 tháng 2 đến ngày 10 tháng 3, người được biết đến với sự công bằng và khoan dung"
+  ],
+  "keywords": [
+    "trí tuệ",
+    "ngoại giao",
+    "kiềm chế",
+    "bình tĩnh"
+  ],
+  "meanings": {
+    "light": [
+      "Giữ vững tinh thần trong khó khăn",
+      "Dũng cảm và rõ ràng khi đối mặt với nghịch cảnh",
+      "Chia sẻ kinh nghiệm để an ủi người khác",
+      "Đưa ra quyết định công bằng và đồng cảm",
+      "Tôn trọng tinh thần, không chỉ chữ nghĩa của luật pháp",
+      "Dùng sự khôn ngoan để dẫn dắt với lòng trắc ẩn",
+      "Duy trì sự ổn định cảm xúc để hỗ trợ người xung quanh",
+      "Truyền cảm hứng bằng sự điềm tĩnh và sâu sắc"
+    ],
+    "shadow": [
+      "Trở nên cứng nhắc và vô cảm",
+      "Đưa ra quyết định bất công dựa trên ý đồ ẩn giấu",
+      "Ra quyết định mà không quan tâm đến tác động cảm xúc lên người khác",
+      "Lạm dụng quyền lực tâm linh",
+      "Dùng đòn bẩy cảm xúc hoặc tâm linh để kiểm soát người khác một cách không lành mạnh",
+      "Che giấu cảm xúc thật để thao túng tình huống",
+      "Mất đi sự kết nối với lòng trắc ẩn tự nhiên",
+      "Áp đặt ý chí mà không lắng nghe người khác"
+    ]
+  },
+  "Elemental": "Lửa của Nước (Fire of Water)",
+  "Affirmation": "Tôi nỗ lực để ổn định và công bằng.",
+  "Questions to Ask": [
+    "Người khôn ngoan nào có thể được tham khảo để xin lời khuyên tốt?",
+    "Làm sao tôi có thể đảm bảo mình đang khách quan và công bằng nhất có thể?",
+    "Tôi có khả năng giữ vững tinh thần trong khó khăn đến mức nào?"
+  ]
+}

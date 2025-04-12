@@ -1,0 +1,44 @@
+{
+  "name": "Chín Kiếm (Nine of Swords)",
+  "number": "9",
+  "arcana": "Ẩn Phụ (Minor Arcana)",
+  "suit": "Kiếm (Swords)",
+  "img": "29.jpg",
+  "fortune_telling": [
+    "Nếu bạn thực hiện hành động mà bạn đang cân nhắc, sau này bạn sẽ hối hận"
+  ],
+  "keywords": [
+    "hối tiếc",
+    "lo lắng",
+    "phiền muộn",
+    "kết luận"
+  ],
+  "meanings": {
+    "light": [
+      "Từ chối lo lắng về những điều bạn không thể kiểm soát",
+      "Loại bỏ sự lo âu",
+      "Đánh giá bản thân một cách nhân từ và nhẹ nhàng",
+      "Sử dụng thiền định để làm dịu tâm trí xáo trộn",
+      "Đối mặt với những cơn ác mộng và nỗi sợ hãi",
+      "Đưa ra kết luận và gạt bỏ một vấn đề ra khỏi tâm trí"
+    ],
+    "shadow": [
+      "Tự dằn vặt bản thân vì những hối tiếc",
+      "Nghi ngờ mọi quyết định của mình",
+      "Chỉ trích bản thân vì những sai lầm",
+      "Trầm cảm",
+      "Ám ảnh về lỗi lầm và những chi tiết bị bỏ sót",
+      "Từ chối xử lý căng thẳng theo cách lành mạnh",
+      "Phá hỏng khả năng tận hưởng hiện tại bằng cách mãi suy nghĩ về quá khứ",
+      "Dày vò bản thân với những quyết định không thể thay đổi"
+    ]
+  },
+  "Numerology": "9 (Sự Hoàn Thành: viên mãn, sẵn sàng, chín muồi)",
+  "Astrology": "Hỏa tinh trong Song Tử (Mars in Gemini)",
+  "Affirmation": "Tôi không lo lắng về những điều ngoài tầm kiểm soát của mình.",
+  "Questions to Ask": [
+    "Lo lắng đóng vai trò gì trong tình huống hiện tại của tôi?",
+    "Tôi có thể sử dụng năng lượng đang dành cho lo âu vào việc gì khác?",
+    "Làm sao tôi có thể biết khi nào là lúc ngừng suy nghĩ và bắt đầu hành động?"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Hai Tiền (Two of Pentacles)",
+  "number": "2",
+  "arcana": "Ẩn Phụ (Minor Arcana)",
+  "suit": "Tiền (Pentacles)",
+  "img": "74.jpg",
+  "fortune_telling": [
+    "Đã đến lúc cân bằng ngân sách",
+    "Tránh cám dỗ chi tiêu số tiền quan trọng vào những thứ phù phiếm"
+  ],
+  "keywords": [
+    "đánh giá",
+    "quyết định",
+    "ngân sách",
+    "chẩn đoán"
+  ],
+  "meanings": {
+    "light": [
+      "Cân nhắc các lựa chọn",
+      "So sánh giá cả",
+      "Đánh giá giá trị của một lựa chọn so với lựa chọn khác",
+      "Xoay sở tài chính để duy trì cuộc sống",
+      "Đưa ra quyết định khó khăn dựa trên lợi ích của sức khỏe hoặc tài chính",
+      "Xem xét kết quả cuối cùng trước khi quyết định",
+      "Tìm kiếm ý kiến thứ hai về các vấn đề sức khỏe"
+    ],
+    "shadow": [
+      "Mắc kẹt trong việc so sánh giá cả vô tận",
+      "Trì hoãn quyết định mua hàng vì lo lắng có thể tìm được giá tốt hơn",
+      "Chi tiêu mà không cân nhắc giá trị thực sự",
+      "Phá vỡ ngân sách vì những khoản chi tiêu không cần thiết",
+      "Hành động mà không quan tâm đến hậu quả cho sức khỏe hoặc tài chính"
+    ]
+  },
+  "Numerology": "2 (Người khác: nhị nguyên, chia rẽ, tranh luận)",
+  "Astrology": "Mộc Tinh trong Ma Kết (Jupiter in Capricorn)",
+  "Affirmation": "\"Trước khi hành động, tôi cân nhắc chi phí.\"",
+  "Questions to Ask": [
+    "Những giá trị nào đang ảnh hưởng đến quyết định của tôi?",
+    "Tôi có sẵn sàng hy sinh một chút niềm vui hiện tại để có nhiều hơn trong tương lai không?",
+    "Dựa trên tình huống hiện tại, lựa chọn nào sẽ mang lại cho tôi nhiều điều tôi thực sự cần hơn?"
+  ]
+}

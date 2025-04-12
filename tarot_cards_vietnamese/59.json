@@ -1,0 +1,44 @@
+{
+  "name": "Ẩn Sĩ (The Hermit)",
+  "number": "9",
+  "arcana": "Ẩn Chính (Major Arcana)",
+  "suit": "Trump",
+  "img": "59.jpg",
+  "fortune_telling": [
+    "Một giai đoạn cô đơn bắt đầu",
+    "Một người trong mối quan hệ rời đi",
+    "Cuộc tìm kiếm tình yêu hoặc tiền bạc không có kết quả"
+  ],
+  "keywords": [
+    "cô độc",
+    "trải nghiệm",
+    "tĩnh lặng",
+    "rút lui"
+  ],
+  "meanings": {
+    "light": [
+      "Trở thành hoặc tìm kiếm một bậc thầy",
+      "Đi vào ẩn tu hoặc tĩnh tâm",
+      "Nạp lại năng lượng tinh thần hoặc sáng tạo",
+      "Dẫn đường cho những người ít kinh nghiệm hơn",
+      "Lùi lại để có cái nhìn toàn cảnh"
+    ],
+    "shadow": [
+      "Tự cô lập bản thân",
+      "Sợ hãi giao tiếp với người khác",
+      "Trở nên kiêu ngạo vì nghĩ rằng mình biết tất cả",
+      "Thổi phồng kiến thức và kinh nghiệm của bản thân",
+      "Giấu đi tài năng vì sợ không đủ năng lực"
+    ]
+  },
+  "Archetype": "Nhà Hiền Triết",
+  "Hebrew Alphabet": "Yod/Bàn Tay/10",
+  "Numerology": "9 (sự hoàn thiện, sẵn sàng, chín muồi)",
+  "Elemental": "Xử Nữ (Virgo)",
+  "Mythical/Spiritual": "Chúa Jesus khi ăn chay 40 ngày trong hoang mạc. Chronos, vị thần thời gian. Thời Gian Lão Nhân (Father Time). Hermes.",
+  "Questions to Ask": [
+    "Điều gì sẽ xảy ra nếu tôi rút lui và không hành động?",
+    "Làm thế nào tôi có thể nhìn nhận tình huống một cách rộng mở hơn?",
+    "Ai đã từng trải qua con đường này trước tôi? Tôi có thể nhờ sự giúp đỡ từ họ không?"
+  ]
+}

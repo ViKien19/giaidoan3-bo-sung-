@@ -1,0 +1,47 @@
+{
+  "name": "Nữ Tư Tế Cao Cả (The High Priestess)",
+  "number": "2",
+  "arcana": "Ẩn Chính (Major Arcana)",
+  "suit": "Trump",
+  "img": "61.jpg",
+  "fortune_telling": [
+    "Một người phụ nữ bí ẩn xuất hiện",
+    "Một bí mật liên quan đến tình dục có thể bị lộ ra",
+    "Ai đó biết nhiều hơn những gì họ tiết lộ"
+  ],
+  "keywords": [
+    "trực giác",
+    "chiêm nghiệm",
+    "thuần khiết",
+    "khai sáng"
+  ],
+  "meanings": {
+    "light": [
+      "Lắng nghe cảm xúc và trực giác của bản thân",
+      "Khám phá con đường tâm linh phi truyền thống",
+      "Giữ bí mật",
+      "Tiếp nhận thông tin một cách thụ động",
+      "Suy ngẫm thay vì hành động ngay lập tức",
+      "Quan sát người khác",
+      "Duy trì sự trong sáng"
+    ],
+    "shadow": [
+      "Trở nên xa cách, khó gần",
+      "Ám ảnh với bí mật và thuyết âm mưu",
+      "Từ chối hướng dẫn từ tinh thần hoặc trực giác",
+      "Tiết lộ mọi thứ quá dễ dàng",
+      "Phớt lờ linh cảm của bản thân",
+      "Từ chối tham gia ngay cả khi cần thiết"
+    ]
+  },
+  "Archetype": "Trinh Nữ / Thiếu Nữ",
+  "Hebrew Alphabet": "Gimel/Lạc Đà/3",
+  "Numerology": "2 (sự phân chia, tranh luận, nhị nguyên)",
+  "Elemental": "Mặt Trăng",
+  "Mythical/Spiritual": "Khía cạnh nữ tính của thần thánh, đặc biệt khi được thể hiện qua sự trinh nguyên, như Đức Mẹ Maria hoặc nữ thần Isis.",
+  "Questions to Ask": [
+    "Một người nổi loạn chống lại truyền thống sẽ làm gì?",
+    "Điều gì đang bị che giấu hoặc chưa được tiết lộ?",
+    "Điều gì có thể đạt được bằng cách quan sát và suy ngẫm?"
+  ]
+}

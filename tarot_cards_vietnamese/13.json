@@ -1,0 +1,48 @@
+{
+  "name": "Bốn Cốc (Four of Cups)",
+  "number": "4",
+  "arcana": "Ẩn Phụ (Minor Arcana)",
+  "suit": "Cốc (Cups)",
+  "img": "13.jpg",
+  "fortune_telling": [
+    "Người yêu của bạn đang trở nên bồn chồn",
+    "Tìm hiểu xem anh ấy/cô ấy cần gì, nếu không những cơ hội mới có thể lôi kéo đối phương rời xa bạn"
+  ],
+  "keywords": [
+    "chán nản",
+    "thờ ơ",
+    "uể oải",
+    "ổn định",
+    "vô ơn"
+  ],
+  "meanings": {
+    "light": [
+      "Duy trì sự ổn định cảm xúc của bạn",
+      "Từ chối khuất phục trước những cảm xúc tràn ngập",
+      "Trân trọng những gì bạn có và không xem đó là điều hiển nhiên",
+      "Nhìn thấy giá trị của những cam kết lâu dài",
+      "Tìm thấy sự bình yên trong sự quen thuộc",
+      "Biết ơn những điều nhỏ bé trong cuộc sống",
+      "Giữ vững tinh thần để đánh giá lại điều thực sự quan trọng"
+    ],
+    "shadow": [
+      "Cảm thấy chán nản",
+      "Mơ mộng viển vông thay vì tập trung vào công việc",
+      "Từ chối đón nhận những cơ hội mới",
+      "Coi thường con người và các mối quan hệ",
+      "Bỏ qua những cơ hội tình cảm hoặc tâm linh",
+      "Chối bỏ nguồn cảm hứng",
+      "Cảm thấy mọi thứ nên giữ nguyên 'như hiện tại'",
+      "Trở nên thờ ơ với những gì xung quanh",
+      "Mất đi động lực để thay đổi hoặc phát triển"
+    ]
+  },
+  "Numerology": "4 (Hiện trạng: ổn định, bình đẳng, kiên trì)",
+  "Astrology": "Mặt Trăng trong Cự Giải (Moon in Cancer)",
+  "Affirmation": "Tôi trân trọng những gì tôi đã được ban tặng.",
+  "Questions to Ask": [
+    "Làm sao tôi có thể tận dụng thời gian 'yên ắng' này một cách tốt nhất?",
+    "Làm thế nào để tôi cho đối phương thấy rằng tôi không xem họ là điều hiển nhiên?",
+    "Tâm trạng của tôi đang che mờ tầm nhìn về những cơ hội mới đến mức nào?"
+  ]
+}

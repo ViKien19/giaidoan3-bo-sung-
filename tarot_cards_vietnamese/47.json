@@ -1,0 +1,43 @@
+{
+  "name": "Sức Mạnh (Strength)",
+  "number": "8",
+  "arcana": "Ẩn Chính (Major Arcana)",
+  "suit": "Trump",
+  "img": "47.jpg",
+  "fortune_telling": [
+    "Khả năng tự kiểm soát của bạn sẽ bị thử thách",
+    "Một người phụ nữ sẽ tìm cách thay đổi đối tác hoặc người yêu của cô ấy",
+    "Bạn là một người mạnh mẽ và có khả năng"
+  ],
+  "keywords": [
+    "kỷ luật",
+    "can đảm",
+    "tự kỷ luật",
+    "sức mạnh",
+    "sinh lực"
+  ],
+  "meanings": {
+    "light": [
+      "Áp đặt các hạn chế cho bản thân vì lợi ích của chính mình",
+      "Kiểm soát đam mê bằng lý trí",
+      "Chống lại các xung động đi ngược lại lợi ích tốt nhất của bạn",
+      "Hành động táo bạo"
+    ],
+    "shadow": [
+      "Nuông chiều sự yếu đuối, ngay cả khi bạn biết nó sẽ làm tổn hại đến sức khỏe và hạnh phúc của bạn",
+      "Mắc kẹt trong nghiện ngập",
+      "Để cho bản năng điều khiển và khuất phục bạn",
+      "Không dám đứng lên khi cần thiết"
+    ]
+  },
+  "Archetype": "Luật Pháp (The Law)",
+  "Hebrew Alphabet": "Lamed/Cánh Tay Vươn Ra/30 hoặc Theth/Rắn/9",
+  "Numerology": "8 (di chuyển, công việc) hoặc 11 = 1 + 1 = 2 (tranh luận, nhị nguyên)",
+  "Elemental": "Thiên Bình hoặc Sư Tử",
+  "Mythical/Spiritual": "Themis hoặc Justitia. Ma'at. Solomon chia cắt đứa trẻ. Thanh Gươm của Damocles. Việc ban hành Mười Điều Răn.",
+  "Questions to Ask": [
+    "Cuộc sống (hoặc công việc) của bạn có cân bằng không?",
+    "Làm thế nào để bạn đạt được sự khách quan lớn hơn?",
+    "Hành động nào sẽ công bằng với tất cả những người liên quan?"
+  ]
+}

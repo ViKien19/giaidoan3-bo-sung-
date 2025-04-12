@@ -1,0 +1,44 @@
+{
+  "name": "Chiến Xa (The Chariot)",
+  "number": "7",
+  "arcana": "Ẩn Chính (Major Arcana)",
+  "suit": "Trump",
+  "img": "53.jpg",
+  "fortune_telling": [
+    "Chiến thắng là điều chắc chắn",
+    "Tiến lên với mọi kế hoạch của bạn",
+    "Cẩn thận với sự ghen tị từ người khác"
+  ],
+  "keywords": [
+    "tiến bộ",
+    "chiến thắng",
+    "vẻ vang",
+    "thành công"
+  ],
+  "meanings": {
+    "light": [
+      "Phá vỡ rào cản",
+      "Tiến về phía trước với sự tự tin và quyền uy",
+      "Chạm đến đỉnh cao của thành công",
+      "Tận hưởng vinh quang của những thành tựu",
+      "Dẫn dắt một nỗ lực đến chiến thắng hoàn toàn",
+      "Khẳng định bản thân như một nhà lãnh đạo xứng đáng"
+    ],
+    "shadow": [
+      "Tự mãn với thành công đã đạt được",
+      "Bỏ qua cảm xúc hoặc mong đợi của người khác để đạt mục tiêu",
+      "Tập trung quá nhiều vào thành công trong quá khứ mà bỏ lỡ cơ hội tương lai",
+      "Không kiềm chế được những hành vi bốc đồng"
+    ]
+  },
+  "Archetype": "Người Anh Hùng Chiến Thắng",
+  "Hebrew Alphabet": "Cheth/Hàng rào/8",
+  "Numerology": "7 (trí tưởng tượng, khám phá nội tâm, tâm lý học)",
+  "Elemental": "Cự Giải",
+  "Mythical/Spiritual": "Odysseus. Jason. Cuộc tìm kiếm Chén Thánh. Chúa Kitô tiến vào thành Jerusalem.",
+  "Questions to Ask": [
+    "Tôi đã đạt đến đâu? Thử thách tiếp theo của tôi là gì?",
+    "Làm sao tôi có thể tận dụng những thành tựu trong quá khứ?",
+    "Như thế nào mới là thành công thực sự và có ý nghĩa?"
+  ]
+}

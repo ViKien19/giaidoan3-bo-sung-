@@ -1,0 +1,46 @@
+{
+  "name": "Nữ Hoàng Kiếm (Queen of Swords)",
+  "number": "13",
+  "arcana": "Ẩn Phụ (Minor Arcana)",
+  "suit": "Kiếm (Swords)",
+  "img": "37.jpg",
+  "fortune_telling": [
+    "Lá bài này đại diện cho một người phụ nữ có bản chất nghệ thuật, trí thức, có thể sinh từ ngày 12 tháng 9 đến ngày 12 tháng 10, người sử dụng giao tiếp khéo léo, tích cực để thuyết phục người khác theo quan điểm của mình"
+  ],
+  "keywords": [
+    "duyên dáng",
+    "kỹ năng",
+    "hóm hỉnh",
+    "thuyết phục",
+    "năng khiếu"
+  ],
+  "meanings": {
+    "light": [
+      "Sử dụng sự khéo léo hoặc ngoại giao",
+      "Giải quyết tình huống căng thẳng",
+      "Biết nói gì và cách nói như thế nào",
+      "Làm cho người khác cảm thấy thoải mái và tự tin",
+      "Khơi gợi những điều tốt đẹp từ mọi người",
+      "Sở hữu khả năng dùng từ ngữ tài tình",
+      "Nói chuyện hài hước",
+      "Có năng khiếu về âm nhạc, toán học, nghệ thuật, hoặc khoa học"
+    ],
+    "shadow": [
+      "Biết chính xác điều gì cần nói để làm tổn thương người khác",
+      "Giữ lại thông tin quan trọng",
+      "Dùng lời nói cay độc để làm tổn thương người khác",
+      "Dùng mỉa mai",
+      "Bắt chước người khác một cách không tử tế",
+      "Làm nhẹ những người kém may mắn hơn",
+      "Thiếu tôn trọng",
+      "Không sử dụng tài năng mình có"
+    ]
+  },
+  "Elemental": "Nước trong Không khí (Water of Air).",
+  "Affirmation": "\"Tôi làm cho sự thật trở nên dễ nghe hơn.\"",
+  "Questions to Ask": [
+    "Tôi có năng khiếu gì? Làm thế nào để tài năng đặc biệt của tôi có thể hữu ích lúc này?",
+    "Đến mức độ nào tôi có khả năng nói ra những điều cần phải nói?",
+    "Cách tốt nhất để nói điều tôi muốn nói là gì?"
+  ]
+}

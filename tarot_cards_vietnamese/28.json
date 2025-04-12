@@ -1,0 +1,41 @@
+{
+  "name": "Chín Xu (Nine of Pentacles)",
+  "number": "9",
+  "arcana": "Ẩn Phụ (Minor Arcana)",
+  "suit": "Xu (Pentacles)",
+  "img": "28.jpg",
+  "fortune_telling": [
+    "Cho đến khi bạn trân trọng những gì mình có, bạn sẽ không gặp may mắn trong việc đạt được nhiều hơn"
+  ],
+  "keywords": [
+    "rèn luyện",
+    "kỷ luật",
+    "tự tin",
+    "đủ đầy"
+  ],
+  "meanings": {
+    "light": [
+      "Dành thời gian học hỏi hoặc dạy một kỹ năng khó",
+      "Kiềm chế bản thân khỏi những thái cực về tài chính hoặc thể chất",
+      "Chấp nhận hy sinh để đạt được mục tiêu lớn hơn",
+      "Chia nhỏ một nhiệm vụ phức tạp thành các bước đơn giản",
+      "Trân trọng những gì mình đang có",
+      "Nhận biết sự khác biệt giữa nhu cầu và mong muốn"
+    ],
+    "shadow": [
+      "Bị giao nhiệm vụ mà không được đào tạo phù hợp",
+      "Theo đuổi một vị trí mà mình không đủ năng lực",
+      "Xem nhẹ các yêu cầu cần thiết",
+      "Từ chối dành đủ thời gian hoặc sự chú ý khi học về một điều mới hoặc một người mới",
+      "Luôn khao khát nhiều hơn mà không bao giờ hài lòng"
+    ]
+  },
+  "Numerology": "9 (Sự Hoàn Thành: viên mãn, sẵn sàng, chín muồi)",
+  "Astrology": "Kim tinh trong Xử Nữ (Venus in Virgo)",
+  "Affirmation": "Tôi biết đủ để tự tin vào những quyết định của mình.",
+  "Questions to Ask": [
+    "Nếu không thể có được điều mình muốn, tôi sẽ làm gì để thích nghi?",
+    "Tôi có thể làm một nhiệm vụ phức tạp dễ dàng hơn bằng cách chia nhỏ nó thành các bước không?",
+    "Tôi kiên nhẫn đến mức nào trong quá trình học hỏi? Với bản thân? Với người khác?"
+  ]
+}

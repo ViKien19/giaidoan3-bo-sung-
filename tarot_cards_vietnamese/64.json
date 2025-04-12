@@ -1,0 +1,45 @@
+{
+  "name": "Mặt Trăng (The Moon)",
+  "number": "18",
+  "arcana": "Ẩn Chính (Major Arcana)",
+  "suit": "Trump",
+  "img": "64.jpg",
+  "fortune_telling": [
+    "Hãy đề phòng những rắc rối vào cuối tháng",
+    "Ai đó mà bạn biết cần được bày tỏ cảm xúc tự do hơn",
+    "Một người nào đó sắp thay đổi quyết định quan trọng"
+  ],
+  "keywords": [
+    "bí ẩn",
+    "ảo tưởng",
+    "trí tưởng tượng",
+    "giấc mơ",
+    "sự bất định"
+  ],
+  "meanings": {
+    "light": [
+      "Tận hưởng những giấc mơ và trí tưởng tượng phong phú",
+      "Sử dụng óc sáng tạo",
+      "Thực hành phép thuật hoặc tôn vinh sự kỳ diệu trong cuộc sống hằng ngày",
+      "Hòa hợp với chu kỳ của tự nhiên",
+      "Đón nhận những điều chưa biết"
+    ],
+    "shadow": [
+      "Không thể phân biệt giữa thực tế và ảo tưởng",
+      "Bị ảo giác hoặc hoang tưởng",
+      "Đánh mất sự say mê với những điều huyền bí và kỳ diệu",
+      "Áp dụng tư duy quá mức logic một cách lạnh lùng",
+      "Không trân trọng những điều bí ẩn trong cuộc sống"
+    ]
+  },
+  "Archetype": "Nữ Thần Thiêng Liêng/Nữ Pháp Sư Già",
+  "Hebrew Alphabet": "Koph/Phía Sau Đầu/100",
+  "Numerology": "18 = 1 + 8 = 9 (sự viên mãn, sẵn sàng, chín muồi)",
+  "Elemental": "Song Ngư",
+  "Mythical/Spiritual": "Kali, nữ thần mẹ da đen gắn liền với thời gian, bóng đêm vĩnh cửu và nguyên lý nữ tính. Hecate, nữ thần của đêm tối, giống như Anubis, giúp linh hồn vượt qua thế giới bên kia.",
+  "Questions to Ask": [
+    "Làm thế nào tôi có thể đối diện nỗi sợ hãi và tiến về phía trước?",
+    "Những ai có thể là người hướng dẫn tôi vượt qua bóng tối nội tâm?",
+    "Tôi có thể đối diện với điều chưa biết một cách lành mạnh như thế nào?"
+  ]
+}

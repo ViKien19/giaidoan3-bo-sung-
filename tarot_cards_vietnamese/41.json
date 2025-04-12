@@ -1,0 +1,41 @@
+{
+  "name": "Bảy Kiếm (Seven of Swords)",
+  "number": "7",
+  "arcana": "Ẩn Phụ (Minor Arcana)",
+  "suit": "Kiếm (Swords)",
+  "img": "41.jpg",
+  "fortune_telling": [
+    "Đừng giả định rằng những người xung quanh bạn xứng đáng để bạn tin tưởng",
+    "Hãy yêu cầu giải trình về nơi họ đã đến và họ đã làm gì"
+  ],
+  "keywords": [
+    "sự không trung thực",
+    "sự giả định",
+    "sự lén lút",
+    "giả định"
+  ],
+  "meanings": {
+    "light": [
+      "Từ chối làm điều gì đó không trung thực, ngay cả khi không có cơ hội bị phát hiện",
+      "Xử lý một tình huống khó khăn một cách khéo léo",
+      "Chỉ ra các giả định",
+      "Hành động đạo đức trong công cộng và riêng tư",
+      "Sống một cuộc đời không thể chê trách"
+    ],
+    "shadow": [
+      "Ăn cắp hoặc nói dối",
+      "Làm bất cứ điều gì bạn có thể thoát khỏi, chỉ vì bạn có thể",
+      "Tìm cách tránh hậu quả",
+      "Biện minh cho hành vi xấu bằng cách tập trung vào sự xấu của người khác",
+      "Không tự kiểm tra động cơ và định kiến của chính mình"
+    ]
+  },
+  "Numerology": "7 (Động lực: tưởng tượng, công việc bên trong, tâm lý học)",
+  "Astrology": "Mặt Trăng trong Bảo Bình",
+  "Affirmation": "\"Tôi giữ mình theo các tiêu chuẩn đạo đức cao nhất.\"",
+  "Questions to Ask": [
+    "Những giả định nào tôi đang đưa ra?",
+    "Cảm giác đạo đức của tôi rõ ràng đến mức nào?",
+    "Tôi nên phản ứng như thế nào khi biết người khác đang phá vỡ quy tắc?"
+  ]
+}

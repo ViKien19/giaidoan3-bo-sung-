@@ -1,0 +1,46 @@
+{
+  "name": "Tám Kiếm",
+  "number": "8",
+  "arcana": "Tiểu Bí Ẩn",
+  "suit": "Kiếm",
+  "img": "7.jpg",
+  "fortune_telling": [
+    "Ngừng đóng vai nạn nhân",
+    "Một khi bạn nhận ra chính mình là rào cản lớn nhất, không gì có thể ngăn bạn tiến lên"
+  ],
+  "keywords": [
+    "hạn chế",
+    "giới hạn",
+    "giam cầm",
+    "bất lực"
+  ],
+  "meanings": {
+    "light": [
+      "Tôn trọng giới hạn",
+      "Tuân thủ quy tắc",
+      "Quyết định ăn kiêng vì lợi ích sức khỏe",
+      "Nhận ra rằng bạn không thể luôn kiểm soát mọi thứ",
+      "Xác định các trở ngại cần vượt qua",
+      "Từ chối nghĩ đến những lựa chọn không lành mạnh hoặc phi đạo đức",
+      "Chủ động tìm kiếm sự giúp đỡ"
+    ],
+    "shadow": [
+      "Cảm thấy bị mắc kẹt",
+      "Lạc lối trong mê cung của quy tắc và luật lệ",
+      "Chìm trong tuyệt vọng",
+      "Đóng vai nạn nhân",
+      "Để người khác quyết định bạn có thể làm gì và không thể làm gì",
+      "Bị tước đoạt quyền tự do hành động",
+      "Có quá ít lựa chọn",
+      "Không chủ động tìm kiếm lối thoát"
+    ]
+  },
+  "Numerology": "8 (Hành động: sự chuyển động, công việc bên ngoài, tốc độ)",
+  "Astrology": "Mộc Tinh trong Song Tử",
+  "Affirmation": "\"Tôi hiểu rõ giới hạn của mình.\"",
+  "Questions to Ask": [
+    "Ai có quyền cắt bỏ những rào cản quan liêu này?",
+    "Chính xác thì đâu là trở ngại? Và cần những nguồn lực nào để vượt qua?",
+    "Liệu sự bất lực của tôi có bắt nguồn từ chính thái độ của bản thân không?"
+  ]
+}

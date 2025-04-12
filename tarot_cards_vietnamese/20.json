@@ -1,0 +1,48 @@
+{
+  "name": "Vua Tiền (King of Pentacles)",
+  "number": "14",
+  "arcana": "Ẩn Phụ (Minor Arcana)",
+  "suit": "Tiền (Pentacles)",
+  "img": "20.jpg",
+  "fortune_telling": [
+    "Lá bài này đại diện cho một người đàn ông lớn tuổi với tinh thần bảo thủ về tài chính, xã hội và chính trị, có thể sinh từ ngày 12 tháng 8 đến ngày 11 tháng 9, người được biết đến với việc biến lời nói thành hành động bằng tiền của mình"
+  ],
+  "keywords": [
+    "ổn định",
+    "đáng tin cậy",
+    "tự tin",
+    "can thiệp"
+  ],
+  "meanings": {
+    "light": [
+      "Trở nên không còn nợ nần",
+      "Có đủ và dư dả để sống thoải mái",
+      "Đóng góp vào kế hoạch tiết kiệm",
+      "Nhận một công việc mới với mục tiêu thăng tiến sự nghiệp",
+      "Mua bảo hiểm nhân thọ hoặc sức khỏe",
+      "Tự tin trong chuyện phòng the",
+      "Đảm nhận vai trò thực thi khi được yêu cầu",
+      "Xây dựng sự thịnh vượng thông qua sự kiên định và thực tế",
+      "Cung cấp sự hỗ trợ vững chắc cho gia đình hoặc cộng đồng",
+      "Thể hiện sự khôn ngoan trong quản lý tài sản và nguồn lực"
+    ],
+    "shadow": [
+      "Trở nên quá bảo thủ đến mức chống lại mọi thay đổi chỉ vì nguyên tắc",
+      "Bỏ qua đổi mới để bảo vệ truyền thống",
+      "Trở nên tự mãn hoặc kiêu ngạo",
+      "Theo đuổi lợi nhuận hoặc khoái lạc một cách tàn nhẫn",
+      "Ích kỷ trong chuyện tình dục",
+      "Ra lệnh cho người khác, đặc biệt khi không có quyền làm vậy",
+      "Bám víu vào sự an toàn đến mức đánh mất cơ hội phát triển",
+      "Áp đặt ý muốn mà không quan tâm đến nhu cầu của người khác",
+      "Tích lũy của cải chỉ để phục vụ cái tôi cá nhân"
+    ]
+  },
+  "Elemental": "Lửa của Đất (Fire of Earth)",
+  "Affirmation": "Tôi thể hiện sự tự tin và công bằng.",
+  "Questions to Ask": [
+    "Làm sao bạn có thể xử lý chi tiêu với sự tự tin và trưởng thành hơn?",
+    "Bạn đáng tin cậy đến mức nào? Người khác sẽ đánh giá sự đáng tin của bạn ra sao?",
+    "Quan điểm bảo thủ có giá trị đến đâu? Khi nào nó trở thành gánh nặng hơn là phước lành?"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Năm Gậy (Five of Wands)",
+  "number": "5",
+  "arcana": "Ẩn Phụ (Minor Arcana)",
+  "suit": "Gậy (Wands)",
+  "img": "12.jpg",
+  "fortune_telling": [
+    "Chuẩn bị cho một cuộc tranh cãi với người bạn thân nhất",
+    "Hãy nhớ: một khi lời nói đã thốt ra, bạn không thể rút lại"
+  ],
+  "keywords": [
+    "đối đầu",
+    "gián đoạn",
+    "khác biệt",
+    "phản đối",
+    "xung đột"
+  ],
+  "meanings": {
+    "light": [
+      "Bình tĩnh bày tỏ ý kiến trái chiều",
+      "Cho phép ai đó sử dụng phương pháp riêng để hoàn thành công việc",
+      "Mở ra không gian cho thảo luận hoặc tranh luận",
+      "So sánh tiến độ hiện tại với các tiêu chuẩn đã đặt ra trước đó",
+      "Khuyến khích sự cạnh tranh lành mạnh để thúc đẩy sự phát triển",
+      "Nhìn nhận xung đột như cơ hội để cải thiện và sáng tạo",
+      "Giữ vững tinh thần lạc quan khi đối mặt với thử thách"
+    ],
+    "shadow": [
+      "Chỉ trích người khác vì ý kiến kỳ cục của họ",
+      "Gây gổ vô cớ",
+      "Đưa ra lời phê bình mang tính phá hoại",
+      "Kích động người khác bằng những lời nói châm chọc",
+      "Làm gián đoạn tiến độ bằng hàng loạt phản đối vô nghĩa",
+      "Để cái tôi lấn át, biến xung đột thành cuộc chiến vô ích",
+      "Gây căng thẳng không cần thiết trong nhóm hoặc mối quan hệ"
+    ]
+  },
+  "Numerology": "5 (Chất xúc tác: bất ổn, kháng cự, đối đầu)",
+  "Astrology": "Thổ Tinh trong Sư Tử (Saturn in Leo)",
+  "Affirmation": "Tôi có thể bày tỏ sự bất đồng một cách xây dựng.",
+  "Questions to Ask": [
+    "Vấn đề hiện tại của bạn đáng để đấu tranh đến mức nào?",
+    "Có giải pháp nào thay thế cho xung đột trực diện không?",
+    "Một 'cuộc chiến công bằng' sẽ như thế nào? Làm sao để giữ cho cuộc tranh đấu này công bằng?"
+  ]
+}

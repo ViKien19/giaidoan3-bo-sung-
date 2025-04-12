@@ -6,16 +6,16 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <title>Quản Trị Hệ Thống Tarot</title>
     
-    {{-- Bootstrap CDN --}}
+    <!-- Bootstrap CDN -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     
-    {{-- Google Fonts --}}
+    <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
     
-    {{-- FontAwesome --}}
+    <!-- FontAwesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
     
-    {{-- Chart.js --}}
+    <!-- Chart.js -->
     <link href="https://cdn.jsdelivr.net/npm/chart.js@3.7.1/dist/chart.min.css" rel="stylesheet">
     
     <style>
@@ -393,6 +393,38 @@
                 gap: 1rem;
             }
         }
+
+        button.nav-link.btn.btn-link:hover {
+            background-color: #5d33a8;
+            border-color: #5d33a8;
+        }
+
+        /* Thêm style cho nút đăng xuất */
+        .logout-btn {
+            display: flex;
+            align-items: center;
+            width: 100%;
+            padding: 0.75rem 1rem;
+            background: none;
+            border: none;
+            color: inherit;
+            text-decoration: none;
+            cursor: pointer;
+            gap: 10px;
+            transition: all 0.3s ease;
+            border-radius: 8px;
+            font-weight: 500;
+        }
+        
+        .logout-btn:hover {
+            background-color: rgba(106, 27, 154, 0.1);
+            color: var(--primary);
+        }
+        
+        .logout-btn i {
+            width: 20px;
+            text-align: center;
+        }
     </style>
 </head>
 <body>
@@ -402,7 +434,7 @@
             <button class="navbar-toggler me-2" type="button" data-bs-toggle="collapse" data-bs-target="#sidebarCollapse">
                 <span class="navbar-toggler-icon"></span>
             </button>
-            <a class="navbar-brand" href="{{ route('tarot-cards.index') }}">
+            <a class="navbar-brand" href="{{ route('admin.dashboard') }}">
                 <i class="fas fa-crystal-ball"></i>
                 <span>Tarot Admin</span>
             </a>
@@ -428,15 +460,15 @@
                 </a>
             </li>
             <li class="nav-item">
-                <a href="{{ route('tarot-cards.index') }}" class="nav-link" data-tab="tarot-management">
-                    <i class="fa-tasks"></i>
+                <a href="#" class="nav-link" data-tab="tarot-management">
+                    <i class="fas fa-tasks"></i>
                     <span>Quản Lý Bài Tarot</span>
                 </a>
             </li>
             <li class="nav-item">
-                <a href="{{ route('chat-history.index') }}" class="nav-link" data-tab="chatbot-management">
+                <a href="#" class="nav-link" data-tab="chatbot-management">
                     <i class="fas fa-robot"></i>
-                    <span>Quản lý lịch sử tư vấn </span>
+                    <span>Quản lý lịch sử tư vấn</span>
                 </a>
             </li>
             <li class="nav-item">
@@ -446,16 +478,13 @@
                 </a>
             </li>
             <li class="nav-item">
-                <a href="#" class="nav-link" data-tab="reports">
-                    <i class="fas fa-chart-bar"></i>
-                    <span>Thống Kê & Báo Cáo</span>
-                </a>
-            </li>
-            <li class="nav-item">
-                <a href="{{ route('logout') }}" class="nav-link">
-                    <i class="fas fa-sign-out-alt"></i>
-                    <span>Đăng Xuất</span>
-                </a>
+                <form id="logout-form" action="{{ route('logout') }}" method="POST">
+                    @csrf
+                    <button type="submit" class="nav-link logout-btn">
+                        <i class="fas fa-sign-out-alt"></i>
+                        <span>Đăng Xuất</span>
+                    </button>
+                </form>
             </li>
         </ul>
     </div>
@@ -494,10 +523,10 @@
             <div class="stats-container">
                 <div class="stat-card primary">
                     <div class="stat-title">Tổng Lá Bài Tarot</div>
-                    <div class="stat-value" id="total-cards">0</div>
+                    <div class="stat-value" id="total-cards">{{ $cards->count() }}</div>
                     <div class="stat-change positive">
                         <i class="fas fa-arrow-up"></i>
-                        <span>Loading...</span>
+                        <span>Đã tải xong</span>
                     </div>
                 </div>
                 <div class="stat-card success">
@@ -573,6 +602,206 @@
             </div>
         </div>
 
+        <!-- Tab: Quản lý bài Tarot -->
+        <div id="tarot-management" class="tab-content">
+            <div class="card">
+                <div class="card-header d-flex justify-content-between align-items-center">
+                    <h5 class="mb-0">Quản lý bộ bài Tarot</h5>
+                    <button class="btn btn-primary" id="show-create-tarot-form">
+                        <i class="fas fa-plus me-1"></i> Thêm lá bài mới
+                    </button>
+                </div>
+                <div class="card-body">
+                    <!-- Form thêm lá bài -->
+                    <div id="tarot-create-form" style="display: none;">
+                        <h3>Thêm lá bài Tarot mới</h3>
+                        <form action="{{ route('tarot-cards.store') }}" method="POST" enctype="multipart/form-data">
+                            @csrf
+                            <div class="form-group">
+                                <label for="card_name">Tên lá bài *</label>
+                                <input type="text" name="card_name" id="card_name" class="form-control" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="image">Hình ảnh *</label>
+                                <input type="file" name="image" id="image" class="form-control-file" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="short_description">Mô tả ngắn *</label>
+                                <textarea name="short_description" id="short_description" class="form-control" rows="3" required></textarea>
+                            </div>
+                            <div class="form-group">
+                                <label for="detailed_meaning">Ý nghĩa chi tiết *</label>
+                                <textarea name="detailed_meaning" id="detailed_meaning" class="form-control" rows="5" required></textarea>
+                            </div>
+                            <div class="form-group">
+                                <label for="upright_meaning">Ý nghĩa xuôi *</label>
+                                <textarea name="upright_meaning" id="upright_meaning" class="form-control" rows="5" required></textarea>
+                            </div>
+                            <div class="form-group">
+                                <label for="reversed_meaning">Ý nghĩa ngược *</label>
+                                <textarea name="reversed_meaning" id="reversed_meaning" class="form-control" rows="5" required></textarea>
+                            </div>
+                            <button type="submit" class="btn btn-primary">Lưu lại</button>
+                            <button type="button" class="btn btn-secondary" id="cancel-create-tarot-form">Hủy bỏ</button>
+                        </form>
+                    </div>
+
+                    <!-- Form chỉnh sửa lá bài -->
+                    <div id="tarot-edit-form" style="display: none;">
+                        <h3>Chỉnh sửa lá bài Tarot</h3>
+                        <form id="edit-tarot-form" method="POST" enctype="multipart/form-data">
+                            @csrf
+                            @method('PUT')
+                            <div class="form-group">
+                                <label for="edit_card_name">Tên lá bài *</label>
+                                <input type="text" name="card_name" id="edit_card_name" class="form-control" required>
+                            </div>
+                            <div class="form-group">
+                                <label>Hình ảnh hiện tại</label><br>
+                                <img id="current_image" src="" alt="" style="max-width: 200px; height: auto;">
+                            </div>
+                            <div class="form-group">
+                                <label for="edit_image">Cập nhật hình ảnh (nếu muốn thay đổi)</label>
+                                <input type="file" name="image" id="edit_image" class="form-control-file">
+                            </div>
+                            <div class="form-group">
+                                <label for="edit_short_description">Mô tả ngắn *</label>
+                                <textarea name="short_description" id="edit_short_description" class="form-control" rows="3" required></textarea>
+                            </div>
+                            <div class="form-group">
+                                <label for="edit_detailed_meaning">Ý nghĩa chi tiết *</label>
+                                <textarea name="detailed_meaning" id="edit_detailed_meaning" class="form-control" rows="5" required></textarea>
+                            </div>
+                            <div class="form-group">
+                                <label for="edit_upright_meaning">Ý nghĩa xuôi *</label>
+                                <textarea name="upright_meaning" id="edit_upright_meaning" class="form-control" rows="5" required></textarea>
+                            </div>
+                            <div class="form-group">
+                                <label for="edit_reversed_meaning">Ý nghĩa ngược *</label>
+                                <textarea name="reversed_meaning" id="edit_reversed_meaning" class="form-control" rows="5" required></textarea>
+                            </div>
+                            <button type="submit" class="btn btn-primary">Cập nhật</button>
+                            <button type="button" class="btn btn-secondary" id="cancel-edit-tarot-form">Hủy bỏ</button>
+                        </form>
+                    </div>
+
+                    <!-- Danh sách lá bài -->
+                    <div id="tarot-list">
+                        <div class="table-responsive">
+                            <table class="table table-hover">
+                                <thead class="thead-light">
+                                    <tr>
+                                        <th>#</th>
+                                        <th>Hình ảnh</th>
+                                        <th>Tên lá bài</th>
+                                        <th>Mô tả ngắn</th>
+                                        <th>Hành động</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach($cards as $card)
+                                    <tr>
+                                        <td>{{ $loop->iteration }}</td>
+                                        <td>
+                                            <img src="{{ asset('storage/' . $card->image_path) }}" 
+                                                 alt="{{ $card->card_name }}" 
+                                                 style="width: 60px; height: auto;">
+                                        </td>
+                                        <td>{{ $card->card_name }}</td>
+                                        <td>{{ Str::limit($card->short_description, 50) }}</td>
+                                        <td>
+                                            <button class="btn btn-sm btn-warning edit-tarot-btn" 
+                                                    data-id="{{ $card->id }}"
+                                                    data-card_name="{{ $card->card_name }}"
+                                                    data-image_path="{{ asset('storage/' . $card->image_path) }}"
+                                                    data-short_description="{{ $card->short_description }}"
+                                                    data-detailed_meaning="{{ $card->detailed_meaning }}"
+                                                    data-upright_meaning="{{ $card->upright_meaning }}"
+                                                    data-reversed_meaning="{{ $card->reversed_meaning }}">
+                                                <i class="fas fa-edit"></i>
+                                            </button>
+                                            <form action="{{ route('tarot-cards.destroy', $card->id) }}" 
+                                                  method="POST" 
+                                                  style="display: inline-block;">
+                                                @csrf
+                                                @method('DELETE')
+                                                <button type="submit" 
+                                                        class="btn btn-sm btn-danger"
+                                                        onclick="return confirm('Bạn chắc chắn muốn xóa?')">
+                                                    <i class="fas fa-trash"></i>
+                                                </button>
+                                            </form>
+                                        </td>
+                                    </tr>
+                                    @endforeach
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Tab: Quản lý lịch sử tư vấn -->
+        <div id="chatbot-management" class="tab-content">
+            <div class="card">
+                <div class="card-header d-flex justify-content-between align-items-center">
+                    <h5 class="mb-0">Lịch Sử Tư Vấn</h5>
+                </div>
+                <div class="card-body">
+                    <!-- Form tìm kiếm -->
+                    <form id="search-form" class="mb-4">
+                        <div class="row g-3">
+                            <div class="col-md-4">
+                                <input type="text" name="search" class="form-control" placeholder="Tìm theo tên hoặc câu hỏi" id="search-input">
+                            </div>
+                            <div class="col-md-4">
+                                <select name="period" class="form-select" id="period-select">
+                                    <option value="">Chọn khoảng thời gian</option>
+                                    <option value="today">Hôm nay</option>
+                                    <option value="week">Tuần này</option>
+                                    <option value="month">Tháng này</option>
+                                </select>
+                            </div>
+                            <div class="col-md-4">
+                                <button type="submit" class="btn btn-primary w-100">
+                                    <i class="fas fa-search mr-1"></i> Tìm kiếm
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+
+                    <!-- Bảng lịch sử tư vấn -->
+                    <div class="table-responsive">
+                        <table class="table table-hover" id="chat-history-table">
+                            <thead>
+                                <tr>
+                                    <th>Tên người dùng</th>
+                                    <th>Câu hỏi</th>
+                                    <th>Trả lời</th>
+                                    <th>Thời gian</th>
+                                </tr>
+                            </thead>
+                            <tbody id="chat-history-body">
+                                @forelse ($chatHistories as $chat)
+                                    <tr data-time="{{ $chat->created_at->toDateTimeString() }}">
+                                        <td>{{ $chat->user_name }}</td>
+                                        <td>{{ $chat->question }}</td>
+                                        <td>{{ $chat->answer }}</td>
+                                        <td>{{ $chat->created_at->format('d/m/Y H:i') }}</td>
+                                    </tr>
+                                @empty
+                                    <tr>
+                                        <td colspan="4" class="text-center">Không có dữ liệu</td>
+                                    </tr>
+                                @endforelse
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+
         <!-- Tab: Quản lý người dùng -->
         <div id="user-management" class="tab-content">
             <div class="card">
@@ -638,8 +867,7 @@
                                     <select name="role_id" class="form-select" required>
                                         <option value="">Chọn vai trò</option>
                                         <option value="1">Quản trị viên</option>
-                                        <option value="2">Biên tập viên</option>
-                                        <option value="3">Người dùng thường</option>
+                                        <option value="2">Người dùng thường</option>
                                     </select>
                                 </div>
                             </div>
@@ -667,285 +895,419 @@
             </div>
         </div>
 
-        <!-- Content section for other tabs will be here -->
-        @yield('content')
+        <!-- Tab: Báo cáo -->
+        <div id="reports" class="tab-content">
+            <!-- Nội dung báo cáo -->
+        </div>
     </main>
 
-    {{-- Bootstrap JS --}}
+    <!-- Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
     
-    {{-- Chart.js --}}
+    <!-- Chart.js -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js@3.7.1/dist/chart.min.js"></script>
     
     <script>
-    // Biến toàn cục
-    let editingUserId = null;
-    const USER_API_BASE_URL = '/users'; // Sử dụng /users thay vì /api/users
+        // Biến toàn cục
+        let editingUserId = null;
+        const USER_API_BASE_URL = '/users';
 
-    // Load danh sách người dùng từ API
-    async function loadUsers() {
-        try {
-            const response = await fetch(USER_API_BASE_URL, {
-                headers: {
-                    'Content-Type': 'application/json',
-                    'Accept': 'application/json',
-                    'X-CSRF-TOKEN': document.querySelector('meta[name="csrf-token"]').content
-                }
-            });
-
-            if (!response.ok) {
-                throw new Error(`HTTP error! status: ${response.status}`);
-            }
-
-            const data = await response.json();
-            const tbody = document.getElementById('users-table');
-            tbody.innerHTML = '';
-
-            data.data.forEach(user => {
-                const row = document.createElement('tr');
-                row.innerHTML = `
-                    <td>${user.id}</td>
-                    <td>${user.username}</td>
-                    <td>${user.fullname}</td>
-                    <td>${user.email}</td>
-                    <td>${getRoleName(user.role_id)}</td>
-                    <td>${new Date(user.created_at).toLocaleDateString()}</td>
-                    <td>
-                        <button class="btn btn-sm btn-outline-primary" onclick="editUser(${user.id})">
-                            <i class="fas fa-edit"></i>
-                        </button>
-                        <button class="btn btn-sm btn-outline-danger" onclick="deleteUser(${user.id})">
-                            <i class="fas fa-trash"></i>
-                        </button>
-                    </td>
-                `;
-                tbody.appendChild(row);
-            });
-        } catch (error) {
-            console.error('Error loading users:', error);
-            alert('Có lỗi khi tải danh sách người dùng: ' + error.message);
-        }
-    }
-
-    function getRoleName(roleId) {
-        switch(roleId) {
-            case 1: return 'Quản trị viên';
-            case 2: return 'Biên tập viên';
-            case 3: return 'Người dùng';
-            default: return 'Không xác định';
-        }
-    }
-
-    function showUserForm(user = null) {
-        const form = document.getElementById('user-form');
-        const formTitle = document.getElementById('user-form-title');
-        const formElement = document.getElementById('user-form-submit');
-        
-        if (user) {
-            formTitle.textContent = 'Sửa Người Dùng';
-            editingUserId = user.id;
-            formElement.querySelector('input[name="username"]').value = user.username;
-            formElement.querySelector('input[name="fullname"]').value = user.fullname;
-            formElement.querySelector('input[name="email"]').value = user.email;
-            formElement.querySelector('select[name="role_id"]').value = user.role_id;
-            formElement.querySelector('input[name="password"]').required = false;
-            formElement.querySelector('input[name="password_confirmation"]').required = false;
-        } else {
-            formTitle.textContent = 'Thêm Người Dùng';
-            editingUserId = null;
-            formElement.reset();
-            formElement.querySelector('input[name="password"]').required = true;
-            formElement.querySelector('input[name="password_confirmation"]').required = true;
-        }
-        
-        form.style.display = 'block';
-        window.scrollTo({ top: form.offsetTop, behavior: 'smooth' });
-    }
-
-    document.getElementById('user-form-submit').addEventListener('submit', async function(e) {
-        e.preventDefault();
-        
-        const formData = new FormData(this);
-        const jsonData = Object.fromEntries(formData.entries());
-        
-        try {
-            let response;
-            if (editingUserId) {
-                response = await fetch(`${USER_API_BASE_URL}/${editingUserId}`, {
-                    method: 'PUT',
-                    body: JSON.stringify(jsonData),
+        // Load danh sách người dùng từ API
+        async function loadUsers() {
+            try {
+                const response = await fetch(USER_API_BASE_URL, {
                     headers: {
                         'Content-Type': 'application/json',
                         'Accept': 'application/json',
                         'X-CSRF-TOKEN': document.querySelector('meta[name="csrf-token"]').content
                     }
                 });
+
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+
+                const data = await response.json();
+                const tbody = document.getElementById('users-table');
+                tbody.innerHTML = '';
+
+                data.data.forEach(user => {
+                    const row = document.createElement('tr');
+                    row.innerHTML = `
+                        <td>${user.id}</td>
+                        <td>${user.username}</td>
+                        <td>${user.fullname}</td>
+                        <td>${user.email}</td>
+                        <td>${getRoleName(user.role_id)}</td>
+                        <td>${new Date(user.created_at).toLocaleDateString()}</td>
+                        <td>
+                            <button class="btn btn-sm btn-outline-primary" onclick="editUser(${user.id})">
+                                <i class="fas fa-edit"></i>
+                            </button>
+                            <button class="btn btn-sm btn-outline-danger" onclick="deleteUser(${user.id})">
+                                <i class="fas fa-trash"></i>
+                            </button>
+                        </td>
+                    `;
+                    tbody.appendChild(row);
+                });
+            } catch (error) {
+                console.error('Error loading users:', error);
+                alert('Có lỗi khi tải danh sách người dùng: ' + error.message);
+            }
+        }
+
+        function getRoleName(roleId) {
+            switch(roleId) {
+                case 1: return 'Quản trị viên';
+                case 2: return 'Người dùng';
+                default: return 'Không xác định';
+            }
+        }
+
+        function showUserForm(user = null) {
+            const form = document.getElementById('user-form');
+            const formTitle = document.getElementById('user-form-title');
+            const formElement = document.getElementById('user-form-submit');
+            
+            if (user) {
+                formTitle.textContent = 'Sửa Người Dùng';
+                editingUserId = user.id;
+                formElement.querySelector('input[name="username"]').value = user.username;
+                formElement.querySelector('input[name="fullname"]').value = user.fullname;
+                formElement.querySelector('input[name="email"]').value = user.email;
+                formElement.querySelector('select[name="role_id"]').value = user.role_id;
+                formElement.querySelector('input[name="password"]').required = false;
+                formElement.querySelector('input[name="password_confirmation"]').required = false;
             } else {
-                response = await fetch(USER_API_BASE_URL, {
-                    method: 'POST',
-                    body: JSON.stringify(jsonData),
+                formTitle.textContent = 'Thêm Người Dùng';
+                editingUserId = null;
+                formElement.reset();
+                formElement.querySelector('input[name="password"]').required = true;
+                formElement.querySelector('input[name="password_confirmation"]').required = true;
+            }
+            
+            form.style.display = 'block';
+            window.scrollTo({ top: form.offsetTop, behavior: 'smooth' });
+        }
+
+        document.getElementById('user-form-submit').addEventListener('submit', async function(e) {
+            e.preventDefault();
+            
+            const formData = new FormData(this);
+            const jsonData = Object.fromEntries(formData.entries());
+            
+            try {
+                let response;
+                if (editingUserId) {
+                    response = await fetch(`${USER_API_BASE_URL}/${editingUserId}`, {
+                        method: 'PUT',
+                        body: JSON.stringify(jsonData),
+                        headers: {
+                            'Content-Type': 'application/json',
+                            'Accept': 'application/json',
+                            'X-CSRF-TOKEN': document.querySelector('meta[name="csrf-token"]').content
+                        }
+                    });
+                } else {
+                    response = await fetch(USER_API_BASE_URL, {
+                        method: 'POST',
+                        body: JSON.stringify(jsonData),
+                        headers: {
+                            'Content-Type': 'application/json',
+                            'Accept': 'application/json',
+                            'X-CSRF-TOKEN': document.querySelector('meta[name="csrf-token"]').content
+                        }
+                    });
+                }
+                
+                const result = await response.json();
+                
+                if (response.ok) {
+                    alert(editingUserId ? 'Cập nhật người dùng thành công!' : 'Thêm người dùng thành công!');
+                    document.getElementById('user-form').style.display = 'none';
+                    loadUsers();
+                } else {
+                    throw new Error(result.message || 'Có lỗi xảy ra');
+                }
+            } catch (error) {
+                console.error('Error:', error);
+                alert('Lỗi: ' + error.message);
+            }
+        });
+
+        async function deleteUser(userId) {
+            if (!confirm('Bạn có chắc chắn muốn xóa người dùng này?')) return;
+            
+            try {
+                const response = await fetch(`${USER_API_BASE_URL}/${userId}`, {
+                    method: 'DELETE',
                     headers: {
                         'Content-Type': 'application/json',
                         'Accept': 'application/json',
                         'X-CSRF-TOKEN': document.querySelector('meta[name="csrf-token"]').content
                     }
                 });
-            }
-            
-            const result = await response.json();
-            
-            if (response.ok) {
-                alert(editingUserId ? 'Cập nhật người dùng thành công!' : 'Thêm người dùng thành công!');
-                document.getElementById('user-form').style.display = 'none';
-                loadUsers();
-            } else {
-                throw new Error(result.message || 'Có lỗi xảy ra');
-            }
-        } catch (error) {
-            console.error('Error:', error);
-            alert('Lỗi: ' + error.message);
-        }
-    });
-
-    async function deleteUser(userId) {
-        if (!confirm('Bạn có chắc chắn muốn xóa người dùng này?')) return;
-        
-        try {
-            const response = await fetch(`${USER_API_BASE_URL}/${userId}`, {
-                method: 'DELETE',
-                headers: {
-                    'Content-Type': 'application/json',
-                    'Accept': 'application/json',
-                    'X-CSRF-TOKEN': document.querySelector('meta[name="csrf-token"]').content
+                
+                const result = await response.json();
+                
+                if (response.ok) {
+                    alert('Xóa người dùng thành công!');
+                    loadUsers();
+                } else {
+                    throw new Error(result.message || 'Có lỗi khi xóa người dùng');
                 }
-            });
-            
-            const result = await response.json();
-            
-            if (response.ok) {
-                alert('Xóa người dùng thành công!');
-                loadUsers();
-            } else {
-                throw new Error(result.message || 'Có lỗi khi xóa người dùng');
+            } catch (error) {
+                console.error('Error:', error);
+                alert('Lỗi: ' + error.message);
             }
-        } catch (error) {
-            console.error('Error:', error);
-            alert('Lỗi: ' + error.message);
         }
-    }
 
-    async function editUser(userId) {
-        try {
-            const response = await fetch(`${USER_API_BASE_URL}/${userId}`, {
-                headers: {
-                    'Content-Type': 'application/json',
-                    'Accept': 'application/json',
-                    'X-CSRF-TOKEN': document.querySelector('meta[name="csrf-token"]').content
-                }
-            });
-            const result = await response.json();
-            
-            if (response.ok) {
-                showUserForm(result.data);
-            } else {
-                throw new Error(result.message || 'Có lỗi khi tải thông tin người dùng');
-            }
-        } catch (error) {
-            console.error('Error:', error);
-            alert('Lỗi: ' + error.message);
-        }
-    }
-
-    // Initialize traffic chart
-    function initTrafficChart() {
-        const ctx = document.getElementById('trafficChart').getContext('2d');
-        const trafficChart = new Chart(ctx, {
-            type: 'line',
-            data: {
-                labels: ['Tháng 1', 'Tháng 2', 'Tháng 3', 'Tháng 4', 'Tháng 5', 'Tháng 6'],
-                datasets: [{
-                    label: 'Lượt truy cập',
-                    data: [1200, 1900, 1700, 2100, 2400, 2800],
-                    backgroundColor: 'rgba(106, 27, 154, 0.1)',
-                    borderColor: 'rgba(106, 27, 154, 1)',
-                    borderWidth: 2,
-                    tension: 0.3,
-                    fill: true
-                }]
-            },
-            options: {
-                responsive: true,
-                plugins: {
-                    legend: {
-                        display: false
+        async function editUser(userId) {
+            try {
+                const response = await fetch(`${USER_API_BASE_URL}/${userId}`, {
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Accept': 'application/json',
+                        'X-CSRF-TOKEN': document.querySelector('meta[name="csrf-token"]').content
                     }
+                });
+                const result = await response.json();
+                
+                if (response.ok) {
+                    showUserForm(result.data);
+                } else {
+                    throw new Error(result.message || 'Có lỗi khi tải thông tin người dùng');
+                }
+            } catch (error) {
+                console.error('Error:', error);
+                alert('Lỗi: ' + error.message);
+            }
+        }
+
+        // Initialize traffic chart
+        function initTrafficChart() {
+            const ctx = document.getElementById('trafficChart').getContext('2d');
+            const trafficChart = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: ['Tháng 1', 'Tháng 2', 'Tháng 3', 'Tháng 4', 'Tháng 5', 'Tháng 6'],
+                    datasets: [{
+                        label: 'Lượt truy cập',
+                        data: [1200, 1900, 1700, 2100, 2400, 2800],
+                        backgroundColor: 'rgba(106, 27, 154, 0.1)',
+                        borderColor: 'rgba(106, 27, 154, 1)',
+                        borderWidth: 2,
+                        tension: 0.3,
+                        fill: true
+                    }]
                 },
-                scales: {
-                    y: {
-                        beginAtZero: true
+                options: {
+                    responsive: true,
+                    plugins: {
+                        legend: {
+                            display: false
+                        }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: true
+                        }
                     }
+                }
+            });
+        }
+
+        document.addEventListener('DOMContentLoaded', function() {
+            // Initialize components
+            loadUsers();
+            initTrafficChart();
+            
+            // Event listeners
+            document.getElementById('add-user').addEventListener('click', function() {
+                showUserForm();
+            });
+            
+            document.getElementById('cancel-user-form').addEventListener('click', function() {
+                document.getElementById('user-form').style.display = 'none';
+            });
+            
+            // Tab switching
+            document.querySelectorAll('.nav-link, .tab').forEach(item => {
+                item.addEventListener('click', function() {
+                    const tabId = this.getAttribute('data-tab');
+                    
+                    // Update active states
+                    document.querySelectorAll('.nav-link, .tab, .tab-content').forEach(el => {
+                        el.classList.remove('active');
+                    });
+                    
+                    this.classList.add('active');
+                    document.getElementById(tabId).classList.add('active');
+                    
+                    // Update URL hash
+                    window.location.hash = tabId;
+                });
+            });
+            
+            // Check URL hash on load
+            if (window.location.hash) {
+                const tabId = window.location.hash.substring(1);
+                const tabElement = document.querySelector(`.nav-link[data-tab="${tabId}"], .tab[data-tab="${tabId}"]`);
+                if (tabElement) {
+                    tabElement.click();
+                }
+            }
+            
+            // Responsive sidebar toggle
+            const sidebarCollapse = document.getElementById('sidebarCollapse');
+            const sidebar = document.querySelector('.sidebar');
+            
+            if (sidebarCollapse) {
+                sidebarCollapse.addEventListener('click', function() {
+                    sidebar.classList.toggle('show');
+                });
+            }
+            
+            // Tarot form toggle
+            document.getElementById('show-create-tarot-form').addEventListener('click', function() {
+                document.getElementById('tarot-create-form').style.display = 'block';
+                document.getElementById('tarot-edit-form').style.display = 'none';
+                document.getElementById('tarot-list').style.display = 'none';
+            });
+
+            document.getElementById('cancel-create-tarot-form').addEventListener('click', function() {
+                document.getElementById('tarot-create-form').style.display = 'none';
+                document.getElementById('tarot-list').style.display = 'block';
+            });
+
+            document.getElementById('cancel-edit-tarot-form').addEventListener('click', function() {
+                document.getElementById('tarot-edit-form').style.display = 'none';
+                document.getElementById('tarot-list').style.display = 'block';
+            });
+
+            // Edit tarot card
+            document.querySelectorAll('.edit-tarot-btn').forEach(button => {
+                button.addEventListener('click', function() {
+                    const id = this.getAttribute('data-id');
+                    const card_name = this.getAttribute('data-card_name');
+                    const image_path = this.getAttribute('data-image_path');
+                    const short_description = this.getAttribute('data-short_description');
+                    const detailed_meaning = this.getAttribute('data-detailed_meaning');
+                    const upright_meaning = this.getAttribute('data-upright_meaning');
+                    const reversed_meaning = this.getAttribute('data-reversed_meaning');
+
+                    // Populate edit form
+                    const form = document.getElementById('edit-tarot-form');
+                    form.action = `/admin/tarot-cards/${id}`;
+                    document.getElementById('edit_card_name').value = card_name;
+                    document.getElementById('current_image').src = image_path;
+                    document.getElementById('edit_short_description').value = short_description;
+                    document.getElementById('edit_detailed_meaning').value = detailed_meaning;
+                    document.getElementById('edit_upright_meaning').value = upright_meaning;
+                    document.getElementById('edit_reversed_meaning').value = reversed_meaning;
+
+                    // Show edit form
+                    document.getElementById('tarot-edit-form').style.display = 'block';
+                    document.getElementById('tarot-create-form').style.display = 'none';
+                    document.getElementById('tarot-list').style.display = 'none';
+                });
+            });
+        });
+
+        document.getElementById('search-form').addEventListener('submit', function(e) {
+            e.preventDefault();
+            const formData = new URLSearchParams(new FormData(this)).toString();
+            const url = new URL(this.action);
+            url.search = formData;
+
+            history.pushState({}, '', url);
+
+            fetch(url, {
+                headers: {
+                    'X-Requested-With': 'XMLHttpRequest'
+                }
+            })
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Lỗi mạng hoặc server');
+                }
+                return response.text();
+            })
+            .then(html => {
+                document.querySelector('#chatbot-management').innerHTML = html;
+            })
+            .catch(error => {
+                console.error('Lỗi:', error);
+                alert('Có lỗi khi tải dữ liệu');
+            });
+        });
+
+        document.addEventListener('DOMContentLoaded', function() {
+            const searchForm = document.getElementById('search-form');
+            const searchInput = document.getElementById('search-input');
+            const periodSelect = document.getElementById('period-select');
+            const chatHistoryBody = document.getElementById('chat-history-body');
+            const rows = Array.from(chatHistoryBody.getElementsByTagName('tr'));
+
+            const originalRows = rows.map(row => row.cloneNode(true));
+
+            searchForm.addEventListener('submit', function(e) {
+                e.preventDefault();
+                filterTable();
+            });
+
+            searchInput.addEventListener('input', filterTable);
+            periodSelect.addEventListener('change', filterTable);
+
+            function filterTable() {
+                const searchTerm = searchInput.value.trim().toLowerCase();
+                const period = periodSelect.value;
+
+                chatHistoryBody.innerHTML = '';
+
+                const filteredRows = originalRows.filter(row => {
+                    const userName = row.cells[0].textContent.toLowerCase();
+                    const question = row.cells[1].textContent.toLowerCase();
+                    const rowTime = new Date(row.getAttribute('data-time'));
+
+                    const matchesSearch = !searchTerm || 
+                        userName.includes(searchTerm) || 
+                        question.includes(searchTerm);
+
+                    let matchesPeriod = true;
+                    if (period) {
+                        const now = new Date();
+                        switch (period) {
+                            case 'today':
+                                matchesPeriod = rowTime.toDateString() === now.toDateString();
+                                break;
+                            case 'week':
+                                const startOfWeek = new Date(now);
+                                startOfWeek.setDate(now.getDate() - now.getDay());
+                                const endOfWeek = new Date(startOfWeek);
+                                endOfWeek.setDate(startOfWeek.getDate() + 6);
+                                matchesPeriod = rowTime >= startOfWeek && rowTime <= endOfWeek;
+                                break;
+                            case 'month':
+                                matchesPeriod = rowTime.getMonth() === now.getMonth() && 
+                                              rowTime.getFullYear() === now.getFullYear();
+                                break;
+                        }
+                    }
+
+                    return matchesSearch && matchesPeriod;
+                });
+
+                if (filteredRows.length > 0) {
+                    filteredRows.forEach(row => chatHistoryBody.appendChild(row.cloneNode(true)));
+                } else {
+                    const noDataRow = document.createElement('tr');
+                    noDataRow.innerHTML = '<td colspan="4" class="text-center">Không tìm thấy kết quả</td>';
+                    chatHistoryBody.appendChild(noDataRow);
                 }
             }
         });
-    }
-
-    document.addEventListener('DOMContentLoaded', function() {
-        // Initialize components
-        loadUsers();
-        initTrafficChart();
-        
-        // Event listeners
-        document.getElementById('add-user').addEventListener('click', function() {
-            showUserForm();
-        });
-        
-        document.getElementById('cancel-user-form').addEventListener('click', function() {
-            document.getElementById('user-form').style.display = 'none';
-        });
-        
-        // Tab switching
-        document.querySelectorAll('.nav-link, .tab').forEach(item => {
-            item.addEventListener('click', function() {
-                const tabId = this.getAttribute('data-tab');
-                
-                // Update active states
-                document.querySelectorAll('.nav-link, .tab, .tab-content').forEach(el => {
-                    el.classList.remove('active');
-                });
-                
-                this.classList.add('active');
-                document.getElementById(tabId).classList.add('active');
-                
-                // Update URL hash
-                window.location.hash = tabId;
-            });
-        });
-        
-        // Check URL hash on load
-        if (window.location.hash) {
-            const tabId = window.location.hash.substring(1);
-            const tabElement = document.querySelector(`.nav-link[data-tab="${tabId}"], .tab[data-tab="${tabId}"]`);
-            if (tabElement) {
-                tabElement.click();
-            }
-        }
-        
-        // Responsive sidebar toggle
-        const sidebarCollapse = document.getElementById('sidebarCollapse');
-        const sidebar = document.querySelector('.sidebar');
-        
-        if (sidebarCollapse) {
-            sidebarCollapse.addEventListener('click', function() {
-                sidebar.classList.toggle('show');
-            });
-        }
-        
-        // Update total cards count (simulated)
-        setTimeout(() => {
-            document.getElementById('total-cards').textContent = '78';
-            document.querySelector('.stat-change.positive span').textContent = 'Đã tải xong';
-        }, 1000);
-    });
-</script>
+    </script>
 </body>
 </html>

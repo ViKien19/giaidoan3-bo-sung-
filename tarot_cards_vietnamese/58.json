@@ -1,0 +1,49 @@
+{
+  "name": "Kẻ Ngốc (The Fool)",
+  "number": "0",
+  "arcana": "Ẩn Chính (Major Arcana)",
+  "suit": "Trump",
+  "img": "57.jpg",
+  "fortune_telling": [
+    "Chuẩn bị cho những dự án mới và khởi đầu mới",
+    "Sẵn sàng tin tưởng vào điều chưa biết",
+    "Một cơ hội mới đang đến, hãy nắm bắt nó"
+  ],
+  "keywords": [
+    "tự do",
+    "niềm tin",
+    "thiếu kinh nghiệm",
+    "ngây thơ"
+  ],
+  "meanings": {
+    "light": [
+      "Giải phóng bản thân khỏi giới hạn",
+      "Bày tỏ niềm vui và sức sống tuổi trẻ",
+      "Cởi mở với thế giới",
+      "Dám bước vào điều chưa biết với niềm tin",
+      "Lắng nghe trực giác",
+      "Đầy háo hức và tò mò",
+      "Khám phá tiềm năng của bản thân",
+      "Chào đón sự đổi mới và thay đổi"
+    ],
+    "shadow": [
+      "Ngây thơ và cả tin",
+      "Mạo hiểm một cách không cần thiết",
+      "Không nghiêm túc khi cần thiết",
+      "Lơ đãng hoặc hành động một cách ngốc nghếch",
+      "Thiếu kinh nghiệm",
+      "Không tôn trọng những giới hạn và truyền thống đã được thiết lập",
+      "Hành xử không phù hợp"
+    ]
+  },
+  "Archetype": "Kẻ Điên Thiêng Liêng",
+  "Hebrew Alphabet": "Aleph/Con bò/1",
+  "Numerology": "0 (ngoài thang đo; tiềm năng thuần khiết)",
+  "Elemental": "Không khí",
+  "Mythical/Spiritual": "Adam trước khi sa ngã. Chúa Kitô như một nhà tiên tri lang thang. Vị thần ẩn mình trong xác phàm. Chúa Thánh Thần.",
+  "Questions to Ask": [
+    "Tôi sẽ làm gì nếu tôi cảm thấy tự do để nhảy vào một điều mới mẻ?",
+    "Tôi sẵn sàng đến mức nào để trở nên dễ bị tổn thương và cởi mở?",
+    "Những kinh nghiệm trong quá khứ có thể giúp ích gì trong tình huống mới này?"
+  ]
+}

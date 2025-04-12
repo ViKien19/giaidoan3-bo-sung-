@@ -1,0 +1,46 @@
+{
+  "name": "Năm Tiền (Five of Pentacles)",
+  "number": "5",
+  "arcana": "Ẩn Phụ (Minor Arcana)",
+  "suit": "Tiền (Pentacles)",
+  "img": "10.jpg",
+  "fortune_telling": [
+    "Tài chính đang ngày càng eo hẹp",
+    "Chuẩn bị cho một bước lùi"
+  ],
+  "keywords": [
+    "nghèo khó",
+    "túng thiếu",
+    "nhu cầu",
+    "khủng hoảng"
+  ],
+  "meanings": {
+    "light": [
+      "Nhận ra nhu cầu của bản thân và hành động để đáp ứng chúng",
+      "Làm tốt nhất có thể với những gì ít ỏi bạn có",
+      "Thừa nhận bạn cần sự giúp đỡ",
+      "Chấp nhận sự hỗ trợ đến với bạn",
+      "Tập trung vào những gì bạn có thay vì những gì bạn thiếu",
+      "Tìm kiếm ánh sáng ở cuối đường hầm",
+      "Trắng: Biểu tượng của sự kiên cường, niềm tin và khả năng vượt qua khó khăn bằng ý chí"
+    ],
+    "shadow": [
+      "Phóng đại nhu cầu tài chính hoặc thể chất của bạn",
+      "Nuôi dưỡng tư duy nghèo khó",
+      "Từ chối tự hỗ trợ bản thân",
+      "Từ chối những lời đề nghị giúp đỡ",
+      "Đóng vai kẻ tử vì đạo",
+      "Bỏ qua cơ hội cải thiện sức khỏe hoặc tài chính",
+      "Đắm mình trong đau khổ",
+      "Đen: Biểu tượng của sự tuyệt vọng, cô lập và từ bỏ hy vọng trong nghịch cảnh"
+    ]
+  },
+  "Numerology": "5 (Chất xúc tác: bất ổn, kháng cự, đối đầu)",
+  "Astrology": "Thủy Tinh trong Kim Ngưu (Mercury in Taurus)",
+  "Affirmation": "Tôi tin rằng những gì tôi cần sẽ xuất hiện.",
+  "Questions to Ask": [
+    "Tôi đang thiếu những nguồn lực quan trọng nào?",
+    "Ai hoặc nhóm nào sẽ giúp tôi nếu tôi yêu cầu?",
+    "Tinh thần nghèo khó có thể đang ảnh hưởng thế nào đến tình trạng thể chất hoặc tài chính của tôi?"
+  ]
+}

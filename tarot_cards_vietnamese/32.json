@@ -1,0 +1,42 @@
+{
+  "name": "Tiểu Đồng Tiền (Page of Pentacles)",
+  "number": "11",
+  "arcana": "Ẩn Phụ (Minor Arcana)",
+  "suit": "Tiền (Pentacles)",
+  "img": "32.jpg",
+  "fortune_telling": [
+    "Lá bài này đại diện cho một chàng trai hoặc cô gái trẻ có tính cách thực tế và vững vàng, có thể thuộc cung Bạch Dương, Kim Ngưu hoặc Song Tử, người sẽ khuyến khích bạn mạo hiểm trong tài chính hoặc tình dục một cách vui tươi"
+  ],
+  "keywords": [
+    "thực tế",
+    "thịnh vượng",
+    "học hỏi",
+    "phát triển",
+    "tuổi mới lớn"
+  ],
+  "meanings": {
+    "light": [
+      "Học được giá trị thực sự của đồng tiền",
+      "Bắt đầu một kế hoạch tiết kiệm",
+      "Thực hiện những bước đầu tiên để thoát khỏi nợ nần",
+      "Học các kỹ năng thể chất mới",
+      "Khám phá bản thân trong khía cạnh tình dục",
+      "Bắt đầu một chế độ ăn uống, chương trình tập thể hình hoặc kế hoạch cải thiện sức khỏe",
+      "Học bằng cách thực hành"
+    ],
+    "shadow": [
+      "Cố gắng tỏ ra giàu có hoặc khỏe mạnh hơn thực tế",
+      "Chi tiêu tiền bạc một cách bất cẩn",
+      "Sống chỉ vì hiện tại mà không nghĩ đến tương lai",
+      "Có quan điểm chưa trưởng thành về tình dục",
+      "Dựa vào sự giàu có hoặc ngoại hình để tránh việc học hỏi và phát triển"
+    ]
+  },
+  "Elemental": "Đất trong Đất (Earth of Earth).",
+  "Affirmation": "Tôi có trách nhiệm về mặt thể chất và tài chính.",
+  "Questions to Ask": [
+    "Làm thế nào để bạn có thêm kinh nghiệm tài chính hoặc tình dục mà không gây rủi ro cho cuộc sống hoặc sức khỏe của mình?",
+    "Học bằng thực hành có thể đóng vai trò gì trong tình huống của bạn?",
+    "Lựa chọn thực tế nhất bạn có thể thực hiện là gì?"
+  ]
+}

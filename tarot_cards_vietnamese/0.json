@@ -1,0 +1,44 @@
+{
+  "name": "Ace of Cups",
+  "number": "1",
+  "arcana": "Minor Arcana",
+  "suit": "Cups",
+  "img": "0.jpg",
+  "fortune_telling": [
+    "Tình yêu đang ở ngay trước mắt bạn",
+    "Một mối quan hệ mới hoặc hôn nhân đang đến gần",
+    "Những lời cầu nguyện của bạn sắp được đáp lại"
+  ],
+  "keywords": [
+    "trực giác",
+    "tâm linh",
+    "tình cảm",
+    "động lực"
+  ],
+  "meanings": {
+    "light": [
+      "Tin tưởng vào cảm xúc của bản thân",
+      "Mở lòng đón nhận sự hướng dẫn tâm linh",
+      "Cho và nhận tình yêu một cách chân thành",
+      "Nhận ra điều gì thúc đẩy bản thân tiến về phía trước",
+      "Nắm bắt cơ hội để bày tỏ tình yêu thương với người khác",
+      "Lắng nghe trực giác và những tín hiệu nhỏ bé từ vũ trụ"
+    ],
+    "shadow": [
+      "Che giấu cảm xúc, không dám đối mặt với sự thật trong lòng",
+      "Bỏ lỡ cơ hội để yêu hoặc được yêu",
+      "Phớt lờ sự khao khát tâm linh",
+      "Không lắng nghe trái tim, hành động quá cứng nhắc",
+      "Để cảm xúc chi phối quá mức, trở thành nô lệ của chúng",
+      "Sa vào sự ám ảnh, cuồng loạn hoặc mất kiểm soát cảm xúc"
+    ]
+  },
+  "Numerology": "1 (Khởi nguồn: điểm bắt đầu, hạt giống, cơ hội)",
+  "Astrology": "Cự Giải, Bọ Cạp, Song Ngư",
+  "Affirmation": "\"Tôi lắng nghe lời khuyên từ trái tim mình.\"",
+  "Questions to Ask": [
+    "Tôi đang thực sự cảm thấy điều gì ngay lúc này?",
+    "Làm thế nào để tôi mở lòng đón nhận sự hướng dẫn từ tâm linh?",
+    "Điều gì thúc đẩy tôi mạnh mẽ nhất – niềm vui hay nỗi đau? Vì sao?"
+  ]
+}

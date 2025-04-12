@@ -1,0 +1,43 @@
+{
+  "name": "Sáu Cốc (Six of Cups)",
+  "number": "6",
+  "arcana": "Ẩn Phụ (Minor Arcana)",
+  "suit": "Cốc (Cups)",
+  "img": "43.jpg",
+  "fortune_telling": [
+    "Một tinh thần keo kiệt đang làm nghẹt thở niềm vui sống của bạn",
+    "Hãy cởi mở và nghĩ đến người khác một lần, tại sao không?"
+  ],
+  "keywords": [
+    "từ thiện",
+    "chia sẻ",
+    "hy sinh",
+    "hợp tác",
+    "công bằng"
+  ],
+  "meanings": {
+    "light": [
+      "Dành thời gian và tài năng của bạn cho người khác",
+      "Cảm thấy hài lòng khi biết rằng nỗ lực của bạn sẽ giúp đỡ người khác",
+      "Tạo ra một tình huống \"cả đôi bên đều có lợi\"",
+      "Cho đi ngay cả khi bạn biết rằng việc được đền đáp là không thể",
+      "Được thúc đẩy bởi mong muốn làm điều tốt"
+    ],
+    "shadow": [
+      "Liên kết giá trị bản thân của bạn với đánh giá của người khác",
+      "Cố gắng tỏ ra cần sự giúp đỡ hơn thực tế",
+      "Nhận sự từ thiện không xứng đáng",
+      "Khoe khoang về những nỗ lực từ thiện của bạn",
+      "Kiếm lợi trong thời gian khó khăn",
+      "Từ chối chia sẻ gánh nặng"
+    ]
+  },
+  "Numerology": "6 (Sự điều chỉnh: hợp tác, cộng tác, tương tác)",
+  "Astrology": "Mặt Trời trong Bọ Cạp",
+  "Affirmation": "\"Tôi tự do cho đi mà không mong nhận lại.\"",
+  "Questions to Ask": [
+    "Những món quà tôi sở hữu là gì? Tôi cho đi chúng tự do như thế nào?",
+    "Làm thế nào tôi có thể thực hành việc cho đi vô điều kiện?",
+    "Sẽ có những thay đổi gì nếu tôi trở thành người từ thiện hơn?"
+  ]
+}

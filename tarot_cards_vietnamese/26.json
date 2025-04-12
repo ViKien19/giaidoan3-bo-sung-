@@ -1,0 +1,42 @@
+{
+  "name": "Kỵ Sĩ Gậy (Knight of Wands)",
+  "number": "12",
+  "arcana": "Ẩn Phụ (Minor Arcana)",
+  "suit": "Gậy (Wands)",
+  "img": "26.jpg",
+  "fortune_telling": [
+    "Lá bài này đại diện cho một người đàn ông có cá tính táo bạo, đam mê, có thể sinh từ ngày 12 tháng 7 đến ngày 11 tháng 8, người muốn cuốn bạn theo cảm xúc mãnh liệt của anh ấy"
+  ],
+  "keywords": [
+    "sự táo bạo",
+    "tự tin",
+    "đam mê",
+    "thuyết phục",
+    "ủng hộ"
+  ],
+  "meanings": {
+    "light": [
+      "Tiến về phía trước một cách mạnh mẽ",
+      "Đạt được tiến bộ nhanh chóng",
+      "Không chấp nhận giới hạn",
+      "Thu hút mọi người bằng trí tuệ và sự quyến rũ",
+      "Thuyết phục người khác về khả năng lãnh đạo của mình",
+      "Dẫn dắt và truyền cảm hứng cho những người xung quanh",
+      "Là chất xúc tác cho sự thay đổi"
+    ],
+    "shadow": [
+      "Hành động một cách hấp tấp mà không có đủ kỹ năng hoặc thông tin",
+      "Phớt lờ cảm xúc của người khác",
+      "Dùng sự quyến rũ để thao túng người khác",
+      "Ép buộc người khác phải đi theo tư tưởng hoặc quyền lãnh đạo của mình",
+      "Bắt đầu nhiều dự án nhưng không hoàn thành bất kỳ dự án nào"
+    ]
+  },
+  "Elemental": "Không Khí của Lửa (Air of Fire)",
+  "Affirmation": "Tôi có thể dẫn dắt con đường đến thành công.",
+  "Questions to Ask": [
+    "Mục tiêu cuối cùng của bạn đã được xác định rõ ràng đến mức nào?",
+    "Cách nhanh nhất để hoàn thành công việc là gì? Và đó có thực sự là cách tốt nhất?",
+    "Lần cuối cùng bạn quay lại để xem liệu người khác có thực sự đang theo bước bạn không là khi nào?"
+  ]
+}

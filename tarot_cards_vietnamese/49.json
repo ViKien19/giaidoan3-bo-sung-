@@ -1,0 +1,40 @@
+{
+  "name": "Mười Cốc (Ten of Cups)",
+  "number": "10",
+  "arcana": "Ẩn Chính (Minor Arcana)",
+  "suit": "Cốc (Cups)",
+  "img": "49.jpg",
+  "fortune_telling": [
+    "Hôn nhân và gia đình đang chờ đón bạn",
+    "Mong đợi một tình bạn sẽ nở hoa thành tình yêu"
+  ],
+  "keywords": [
+    "niềm vui",
+    "sự viên mãn",
+    "cảm xúc mãnh liệt",
+    "sự phấn khích"
+  ],
+  "meanings": {
+    "light": [
+      "Có nhiều hơn những gì bạn từng mơ ước",
+      "Là người biết ơn sâu sắc tất cả những gì mình nhận được",
+      "Nhận ra Bàn Tay của Chúa trong những món quà mà Vũ trụ mang đến cho bạn",
+      "Trải nghiệm niềm vui siêu việt",
+      "Đạt được hạnh phúc gia đình"
+    ],
+    "shadow": [
+      "So sánh thành tích hoặc mối quan hệ của bạn với các tiêu chuẩn ảo tưởng không thực tế",
+      "Trải qua cảm xúc mạnh mẽ đến mức làm giảm khả năng đối phó với thực tế",
+      "Cảm thấy bị choáng ngợp",
+      "Ghen tị với thành công và hạnh phúc của người khác"
+    ]
+  },
+  "Numerology": "10 (Sự Kết Thúc: kết thúc, hoàn thành, kiệt sức)",
+  "Astrology": "Sao Hỏa trong Song Ngư",
+  "Affirmation": "\"Tôi dành thời gian để trân trọng những gì tôi đã nhận được.\"",
+  "Questions to Ask": [
+    "Ai là người quyết định \"niềm vui\" bao gồm những gì?",
+    "Hành động nào có thể thực hiện khi bạn cảm thấy choáng ngợp?",
+    "Làm thế nào các lời thề hoặc cam kết có thể đóng vai trò trong việc đạt được mức độ hạnh phúc cao hơn trong cuộc sống của bạn?"
+  ]
+}

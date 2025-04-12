@@ -1,0 +1,42 @@
+{
+  "name": "Ba Kiếm (Three of Swords)",
+  "number": "3",
+  "arcana": "Ẩn Phụ (Minor Arcana)",
+  "suit": "Kiếm (Swords)",
+  "img": "71.jpg",
+  "fortune_telling": [
+    "Chia ly và phản bội đang diễn ra",
+    "Nỗi đau hiện tại rồi sẽ trở thành bài học quý giá cho bạn sau này"
+  ],
+  "keywords": [
+    "biến động",
+    "khác biệt",
+    "bất mãn",
+    "đau lòng",
+    "từ chối"
+  ],
+  "meanings": {
+    "light": [
+      "Can đảm nhìn nhận sự thật như vốn có",
+      "Rèn luyện tư duy phê phán",
+      "Trở thành người đánh giá tốt nhất cho chính mình",
+      "Thừa nhận rằng không phải lúc nào mọi chuyện cũng diễn ra như kế hoạch",
+      "Vượt qua nỗi đau để chấp nhận một sự thật khó khăn"
+    ],
+    "shadow": [
+      "Đắm chìm trong tuyệt vọng",
+      "Để bản thân bị tổn thương nặng nề bởi lời nói, suy nghĩ hoặc hành động của người khác",
+      "Tự phán xét quá khắc nghiệt",
+      "Áp đặt bản thân theo một tiêu chuẩn hoàn hảo phi thực tế",
+      "Quá nhạy cảm nhưng lại mang đầy sự phẫn uất"
+    ]
+  },
+  "Numerology": "3 (Kết quả: sự biểu đạt, năng suất, thành quả)",
+  "Astrology": "Thổ Tinh trong Thiên Bình (Saturn in Libra)",
+  "Affirmation": "\"Tôi học hỏi từ những thất bại và trở ngại.\"",
+  "Questions to Ask": [
+    "Làm thế nào để tôi vượt qua nỗi buồn?",
+    "Cảm xúc của tôi có phải là sự lựa chọn không?",
+    "Tôi có thể học được gì từ những sai lầm trong quá khứ?"
+  ]
+}

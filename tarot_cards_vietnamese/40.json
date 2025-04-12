@@ -1,0 +1,43 @@
+{
+  "name": "Bảy Tiền (Seven of Pentacles)",
+  "number": "7",
+  "arcana": "Ẩn Phụ (Minor Arcana)",
+  "suit": "Tiền (Pentacles)",
+  "img": "40.jpg",
+  "fortune_telling": [
+    "Mọi thứ sẽ không diễn ra như mong đợi",
+    "Hãy thu dọn và chuẩn bị để tiếp tục"
+  ],
+  "keywords": [
+    "đánh giá",
+    "xem xét lại",
+    "đánh giá lại",
+    "suy ngẫm"
+  ],
+  "meanings": {
+    "light": [
+      "Đo lường tiến độ đạt được mục tiêu",
+      "Nhìn nhận kết quả với mục đích cải thiện hiệu suất",
+      "Đặt câu hỏi: \"Mình có hài lòng không?\"",
+      "Đưa ra ý tưởng để cải thiện sức khỏe hoặc thịnh vượng",
+      "Quyết định đã đến lúc thay đổi",
+      "Bày tỏ ý kiến chân thành"
+    ],
+    "shadow": [
+      "Bị phân tâm bởi những suy nghĩ u sầu",
+      "Khao khát trở lại \"những ngày xưa tốt đẹp\"",
+      "Tự trách mình vì những cơ hội đã mất",
+      "Đánh giá công việc của bản thân một cách khắc nghiệt",
+      "Đặt ra những tiêu chuẩn không phù hợp cho người khác",
+      "Từ chối tham gia vào một dự án, rồi than vãn về chất lượng kết quả"
+    ]
+  },
+  "Numerology": "7 (Động lực: tưởng tượng, công việc bên trong, tâm lý học)",
+  "Astrology": "Sao Thổ trong Kim Ngưu",
+  "Affirmation": "\"Để duy trì mục tiêu, tôi đo lường tiến độ của mình.\"",
+  "Questions to Ask": [
+    "Mức độ tôi đã hoàn thành kỳ vọng của bản thân đến đâu?",
+    "Điều kiện để thành công là gì?",
+    "Làm thế nào để tôi cảm thấy hạnh phúc hơn với tiến bộ mình đã đạt được?"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Vua Gậy (King of Wands)",
+  "number": "14",
+  "arcana": "Ẩn Phụ (Minor Arcana)",
+  "suit": "Gậy (Wands)",
+  "img": "22.jpg",
+  "fortune_telling": [
+    "Lá bài này đại diện cho một người đàn ông lớn tuổi với cá tính mạnh mẽ, lôi cuốn, có thể sinh từ ngày 13 tháng 11 đến ngày 12 tháng 12, người thích đưa ra chỉ đạo và mong muốn người khác làm theo"
+  ],
+  "keywords": [
+    "sáng tạo",
+    "khéo léo",
+    "thành tựu",
+    "chỉ đạo"
+  ],
+  "meanings": {
+    "light": [
+      "Kết hợp những yếu tố cũ để tạo ra điều mới mẻ và thú vị",
+      "Nảy ra những giải pháp bất ngờ",
+      "Sử dụng kinh nghiệm của mình để giải quyết vấn đề",
+      "Hoàn thành những mục tiêu đã đề ra",
+      "Chỉ đạo và dẫn dắt người khác"
+    ],
+    "shadow": [
+      "Dùng sự sáng tạo để trốn tránh công việc thực sự",
+      "Bỏ ra nhiều công sức để né tránh trách nhiệm",
+      "Khoe khoang về thành tựu nhưng không áp dụng chuyên môn vào thực tế",
+      "Áp đặt quyền lực lên người khác"
+    ]
+  },
+  "Elemental": "Lửa của Lửa (Fire of Fire)",
+  "Affirmation": "Tôi sử dụng quyền hạn và kinh nghiệm của mình để hoàn thành công việc nhanh chóng.",
+  "Questions to Ask": [
+    "Tôi có phải là một nhà lãnh đạo tự tin không?",
+    "Làm thế nào tôi có thể thể hiện sự tự tin hơn?",
+    "Làm thế nào tôi có thể chia sẻ chuyên môn của mình để truyền cảm hứng cho người khác theo tôi?"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Tiểu Đồng Kiếm (Page of Swords)",
+  "number": "11",
+  "arcana": "Ẩn Phụ (Minor Arcana)",
+  "suit": "Kiếm (Swords)",
+  "img": "33.jpg",
+  "fortune_telling": [
+    "Lá bài này đại diện cho một chàng trai hoặc cô gái trẻ có tính cách thông minh, thích tìm tòi, có thể thuộc cung Ma Kết, Bảo Bình hoặc Song Ngư, người muốn học hỏi điều gì đó từ bạn hoặc muốn thảo luận với bạn"
+  ],
+  "keywords": [
+    "học sinh",
+    "người học việc",
+    "học bổng",
+    "thông tin"
+  ],
+  "meanings": {
+    "light": [
+      "Theo đuổi một khóa học hoặc con đường học tập",
+      "Đặt ra những câu hỏi hay",
+      "Dành thời gian để học và thực hành",
+      "Nghiên cứu và tìm hiểu thông tin",
+      "Tạo thói quen học hỏi những điều mới",
+      "Bắt đầu một cuộc điều tra",
+      "Liệt kê những gì bạn cần biết",
+      "Tìm kiếm một người cố vấn hoặc giáo viên"
+    ],
+    "shadow": [
+      "Giả vờ có kiến thức hoặc sự hiểu biết mà bạn không thực sự có",
+      "Gian lận trong thi cử",
+      "Giả vờ quan tâm để lấy lòng người khác",
+      "Chỉ xem xét những bằng chứng ủng hộ kết luận mà bạn đã có sẵn",
+      "Từ chối lời khuyên khôn ngoan từ những người có kinh nghiệm"
+    ]
+  },
+  "Elemental": "Đất trong Khí (Earth of Air).",
+  "Affirmation": "Tôi sẵn sàng đưa ra những quyết định đúng đắn.",
+  "Questions to Ask": [
+    "Bạn cảm thấy thế nào khi phải thừa nhận rằng mình không biết điều gì đó?",
+    "Những đặc điểm của một học sinh giỏi là gì?",
+    "Bạn sẵn sàng đón nhận thông tin mới đến mức nào?"
+  ]
+}

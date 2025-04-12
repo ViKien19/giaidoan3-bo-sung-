@@ -1,0 +1,45 @@
+{
+  "name": "Hai Cốc (Two of Cups)",
+  "number": "2",
+  "arcana": "Ẩn Phụ (Minor Arcana)",
+  "suit": "Cốc (Cups)",
+  "img": "73.jpg",
+  "fortune_telling": [
+    "Ai đó đang thầm thích bạn",
+    "Mối quan hệ nên có sự tương hỗ; hãy tránh xa những kẻ chỉ biết lợi dụng"
+  ],
+  "keywords": [
+    "kết nối",
+    "hấp dẫn",
+    "kết hợp",
+    "tình cảm"
+  ],
+  "meanings": {
+    "light": [
+      "Bị thu hút bởi ai đó",
+      "Khao khát một người hoặc một điều gì đó",
+      "Hành động theo những mong muốn của bản thân",
+      "Phát hiện ra tình cảm là sự đồng điệu từ cả hai phía",
+      "Làm những điều khiến bạn cảm thấy hạnh phúc",
+      "Hòa hợp và gắn kết",
+      "Hàn gắn những mối quan hệ đã rạn nứt",
+      "Nhận ra hai người có cảm xúc khác nhau và chấp nhận buông bỏ"
+    ],
+    "shadow": [
+      "Cắt đứt mối quan hệ một cách tiêu cực",
+      "Rơi vào tình trạng phụ thuộc không lành mạnh",
+      "Tự cô lập mình khỏi thế giới, chỉ giữ lại một số ít người bên cạnh",
+      "Ám ảnh về một người không đáp lại tình cảm của bạn",
+      "Tuyệt vọng trong việc tìm kiếm \"người định mệnh\"",
+      "Tự dối lòng về xu hướng tình cảm thật sự của bản thân"
+    ]
+  },
+  "Numerology": "2 (Người khác: nhị nguyên, chia rẽ, tranh luận)",
+  "Astrology": "Kim Tinh trong Cự Giải (Venus in Cancer)",
+  "Affirmation": "\"Tôi lắng nghe và trân trọng những gì trái tim mình thực sự khao khát.\"",
+  "Questions to Ask": [
+    "Làm thế nào để tôi biết rằng cảm xúc này có sự tương tác từ cả hai phía?",
+    "Lần cuối tôi cảm thấy \"yêu\" một ai đó hoặc một điều gì đó là khi nào?",
+    "Điều gì giúp tôi cảm thấy ổn định về mặt cảm xúc?"
+  ]
+}

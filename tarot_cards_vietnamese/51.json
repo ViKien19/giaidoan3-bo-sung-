@@ -1,0 +1,45 @@
+{
+  "name": "Mười Thanh Gươm (Ten of Swords)",
+  "number": "10",
+  "arcana": "Ẩn Chính (Minor Arcana)",
+  "suit": "Thanh Gươm (Swords)",
+  "img": "51.jpg",
+  "fortune_telling": [
+    "Thảm họa",
+    "Hoãn lại kế hoạch và đừng hành động cho đến khi điềm báo tốt hơn"
+  ],
+  "keywords": [
+    "kiệt sức",
+    "tàn tạ",
+    "thảm họa",
+    "sức bền",
+    "ám ảnh"
+  ],
+  "meanings": {
+    "light": [
+      "Nhận thấy dấu hiệu rằng bạn đã đến giới hạn của mình",
+      "Chú ý đến những gì cơ thể đang cố gắng nói với bạn",
+      "Chấp nhận nhu cầu nghỉ ngơi và phục hồi",
+      "Thừa nhận rằng bạn đã chạm đáy",
+      "Cam kết thay đổi tình hình",
+      "Biết rằng điều tồi tệ nhất đã qua"
+    ],
+    "shadow": [
+      "Chấp nhận thất bại quá sớm",
+      "Đẩy bản thân đến kiệt quệ hoàn toàn, đặc biệt là về tinh thần",
+      "Trải qua một cuộc khủng hoảng tinh thần",
+      "Ám ảnh một vấn đề đến mức không thể chịu đựng",
+      "Từ bỏ",
+      "Không chuyển từ suy nghĩ sang hành động",
+      "Những suy nghĩ không lành mạnh"
+    ]
+  },
+  "Numerology": "10 (Sự Kết Thúc: kết thúc, hoàn thành, kiệt sức)",
+  "Astrology": "Mặt Trời trong Song Tử",
+  "Affirmation": "\"Khi giới hạn của tôi bị vượt qua, tôi hành động vì lợi ích của chính mình.\"",
+  "Questions to Ask": [
+    "Dấu hiệu nào cho thấy thời gian tranh luận đã kết thúc?",
+    "Làm sao để nhận biết khi sự quan tâm đã chuyển thành ám ảnh?",
+    "Khi giới hạn của chính mình được đạt đến, tôi có thể tìm đâu để được giúp đỡ?"
+  ]
+}

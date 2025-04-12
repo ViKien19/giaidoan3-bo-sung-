@@ -1,0 +1,50 @@
+{
+  "name": "Ace of Pentacles",
+  "number": "1",
+  "arcana": "Minor Arcana",
+  "suit": "Pentacles",
+  "img": "1.jpg",
+  "fortune_telling": [
+    "Sức khỏe của bạn sẽ được cải thiện",
+    "Khoản tiền bạn mong đợi thực sự đang trên đường đến"
+  ],
+  "keywords": [
+    "sức khỏe",
+    "tài chính",
+    "thực tế",
+    "nhận được"
+  ],
+  "meanings": {
+    "light": [
+      "Lập kế hoạch để đạt được sự thịnh vượng",
+      "Nhận ra cơ hội để cải thiện thu nhập hoặc sức khỏe",
+      "Hiểu rằng bạn đã có đầy đủ những gì mình cần",
+      "Biết ơn mọi điều tốt đẹp mà Vũ trụ ban tặng",
+      "Nhận được món quà hoàn hảo vào thời điểm hoàn hảo",
+      "Duy trì một lối sống lành mạnh và bền vững",
+      "Học cách quản lý tài chính và tài sản một cách khôn ngoan",
+      "Biết cách tận dụng tối đa những nguồn lực sẵn có"
+    ],
+    "shadow": [
+      "Đắm chìm trong chủ nghĩa tiêu dùng không ngừng",
+      "Luôn cảm thấy chưa đủ dù đã có rất nhiều",
+      "Ám ảnh về số dư tài khoản và vật chất",
+      "Lo lắng quá mức về sức khỏe, dẫn đến tự kỷ ám thị",
+      "Nhận những món quà mà không bày tỏ lòng biết ơn",
+      "Lấy đi mà không quan tâm đến nhu cầu của người khác",
+      "Bỏ qua các cơ hội tốt vì quá tập trung vào những thứ nhỏ nhặt",
+      "Sợ hãi sự thiếu thốn đến mức không dám chi tiêu cho bản thân"
+    ]
+  },
+  "Numerology": "1 (Khởi nguồn: điểm bắt đầu, hạt giống, cơ hội)",
+  "Astrology": "Ma Kết, Kim Ngưu, Xử Nữ",
+  "Affirmation": "\"Tôi sẵn sàng đón nhận và biết ơn những phước lành trong cuộc sống.\"",
+  "Questions to Ask": [
+    "Nếu tôi đưa ra quyết định chỉ dựa trên những yếu tố thực tế, thì quyết định đó sẽ là gì?",
+    "Tôi có những nguồn lực nào sẵn có mà tôi chưa tận dụng?",
+    "Những quyết định của tôi sẽ ảnh hưởng đến sức khỏe và tài chính như thế nào?",
+    "Tôi có đang trân trọng những gì mình đang có không?",
+    "Tôi có đang tiêu xài hợp lý hay bị cuốn vào lối sống vật chất?",
+    "Làm thế nào để cân bằng giữa việc kiếm tiền và tận hưởng cuộc sống?"
+  ]
+}

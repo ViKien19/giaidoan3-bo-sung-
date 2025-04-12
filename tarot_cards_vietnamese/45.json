@@ -1,0 +1,43 @@
+{
+  "name": "Sáu Kiếm (Six of Swords)",
+  "number": "6",
+  "arcana": "Ẩn Phụ (Minor Arcana)",
+  "suit": "Kiếm (Swords)",
+  "img": "45.jpg",
+  "fortune_telling": [
+    "Bạn sẽ sớm đi một chuyến đi dài qua biển",
+    "Hành động có thể mang lại những hậu quả không ngờ, vì vậy hãy chuẩn bị sẵn sàng"
+  ],
+  "keywords": [
+    "thích nghi",
+    "điều chỉnh",
+    "khoa học",
+    "du lịch"
+  ],
+  "meanings": {
+    "light": [
+      "Tận dụng tốt nhất một tình huống xấu",
+      "Hồi phục sau thất bại",
+      "Đặt lại kỳ vọng",
+      "Chấp nhận những hoàn cảnh bất ngờ",
+      "Giúp đỡ những người gặp phải hoàn cảnh khó khăn",
+      "Thay đổi cách nhìn nhận thế giới",
+      "Mở rộng tầm nhìn qua học hỏi hoặc du lịch"
+    ],
+    "shadow": [
+      "Từ chối chấp nhận rằng mọi thứ đã thay đổi",
+      "Chơi trò nạn nhân",
+      "Từ chối chấp nhận rằng hành động của mình có hậu quả",
+      "Áp dụng tiêu chí khoa học vào những vấn đề liên quan đến đức tin, hoặc nhầm lẫn giữa đức tin và khoa học",
+      "Tin rằng cả thế giới nên giống như góc nhỏ của mình"
+    ]
+  },
+  "Numerology": "6 (Sự điều chỉnh: hợp tác, cộng tác, tương tác)",
+  "Astrology": "Sao Thủy trong Bảo Bình",
+  "Affirmation": "\"Tôi giữ một tâm trí cởi mở.\"",
+  "Questions to Ask": [
+    "Những giả định nào chi phối suy nghĩ của tôi?",
+    "Tôi có sẵn lòng giúp đỡ người khác không? Có sẵn sàng yêu cầu sự giúp đỡ khi cần không?",
+    "Tôi đã chuẩn bị sẵn sàng để đối mặt với thay đổi chưa? Với những kết quả bất ngờ?"
+  ]
+}

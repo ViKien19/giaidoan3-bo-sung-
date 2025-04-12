@@ -1,0 +1,46 @@
+{
+  "name": "Kỵ Sĩ Kiếm (Knight of Swords)",
+  "number": "12",
+  "arcana": "Ẩn Phụ (Minor Arcana)",
+  "suit": "Kiếm (Swords)",
+  "img": "25.jpg",
+  "fortune_telling": [
+    "Một sai lầm khiến ai đó nói ra điều họ hối tiếc",
+    "Nếu đó là bạn, hãy sẵn sàng xin lỗi và tiếp tục tiến về phía trước"
+  ],
+  "keywords": [
+    "thẳng thắn",
+    "trí tuệ",
+    "sắc bén",
+    "điều tra"
+  ],
+  "meanings": {
+    "light": [
+      "Nói lên suy nghĩ của mình",
+      "Bày tỏ quan điểm một cách rõ ràng",
+      "Đưa ra lời phê bình mang tính xây dựng",
+      "Chia sẻ kiến thức của bản thân",
+      "Đưa ra những nhận xét sắc sảo",
+      "Xác định chính xác vấn đề",
+      "Làm rõ những gì người khác đã nói",
+      "Đưa ra chỉ dẫn rõ ràng cho người khác",
+      "Vạch trần sự thật"
+    ],
+    "shadow": [
+      "Coi ý kiến của mình như sự thật tuyệt đối",
+      "Gây sự, khiêu khích tranh cãi",
+      "Dùng lời lẽ sắc bén để làm lung lay sự tự tin của người khác",
+      "Bỏ qua lý lẽ, hành động thiếu suy xét",
+      "Nói mà không quan tâm đến cảm xúc của người khác",
+      "Tìm kiếm kẻ có lỗi một cách mù quáng",
+      "Bóp méo sự thật"
+    ]
+  },
+  "Elemental": "Không Khí của Không Khí (Air of Air)",
+  "Affirmation": "Tôi truyền đạt sự thật với sự khéo léo.",
+  "Questions to Ask": [
+    "Tôi thực sự cần biết điều gì?",
+    "Tôi đã điều tra kỹ sự thật đằng sau tình huống của mình đến đâu?",
+    "Làm thế nào tôi có thể chia sẻ kiến thức của mình mà không làm người khác xa lánh?"
+  ]
+}

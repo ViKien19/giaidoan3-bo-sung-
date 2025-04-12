@@ -1,0 +1,46 @@
+{
+  "name": "Bốn Kiếm (Four of Swords)",
+  "number": "4",
+  "arcana": "Ẩn Phụ (Minor Arcana)",
+  "suit": "Kiếm (Swords)",
+  "img": "15.jpg",
+  "fortune_telling": [
+    "Đừng đưa ra quyết định nào bây giờ",
+    "Hãy chờ đợi, và bạn sẽ mừng vì đã làm vậy"
+  ],
+  "keywords": [
+    "thiền định",
+    "suy ngẫm",
+    "góc nhìn",
+    "tâm thế"
+  ],
+  "meanings": {
+    "light": [
+      "Suy nghĩ kỹ về kế hoạch trước khi thực hiện",
+      "Tạm dừng để thiền định hoặc làm sáng tỏ tâm trí",
+      "Dành thời gian để hiểu ai đó hoặc điều gì đó trước khi phê phán",
+      "Nghỉ ngơi",
+      "Chiếm lĩnh suy nghĩ bằng một sự phân tâm lành mạnh",
+      "Tìm lại sự bình yên trong tâm hồn qua sự tĩnh lặng",
+      "Xây dựng sự sáng suốt bằng cách quan sát thay vì vội vàng hành động",
+      "Tái định hướng bản thân để chuẩn bị cho thử thách phía trước"
+    ],
+    "shadow": [
+      "Không suy nghĩ thấu đáo mọi việc",
+      "Nhầm lẫn giữa sự trì hoãn và sự chu đáo",
+      "Cố chấp với một quan điểm và từ chối xem xét lại kết luận, ngay cả khi có bằng chứng phản bác",
+      "Để sự hỗn loạn và bốc đồng chi phối suy nghĩ",
+      "Trốn tránh trách nhiệm bằng cách trì trệ",
+      "Mất tập trung do thiếu sự kiên nhẫn hoặc kỷ luật",
+      "Từ chối đối mặt với thực tế cần thay đổi"
+    ]
+  },
+  "Numerology": "4 (Hiện trạng: ổn định, bình đẳng, kiên trì)",
+  "Astrology": "Mộc Tinh trong Thiên Bình (Jupiter in Libra)",
+  "Affirmation": "Tôi suy nghĩ trước khi hành động.",
+  "Questions to Ask": [
+    "Đã bao lâu rồi bạn chưa cố ý dành thời gian để 'tạm nghỉ'?",
+    "Bạn cảm thấy thiền định khó khăn đến mức nào?",
+    "Điều gì sẽ xảy ra nếu hôm nay bạn chỉ đơn giản là từ chối đưa ra quyết định?"
+  ]
+}

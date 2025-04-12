@@ -1,0 +1,41 @@
+{
+  "name": "Nữ Hoàng Tiền (Queen of Pentacles)",
+  "number": "13",
+  "arcana": "Ẩn Phụ (Minor Arcana)",
+  "suit": "Tiền (Pentacles)",
+  "img": "36.jpg",
+  "fortune_telling": [
+    "Lá bài này đại diện cho một người phụ nữ có bản chất rộng lượng và nhục cảm, có thể sinh từ ngày 13 đến ngày 31 tháng 12, người sử dụng sức hấp dẫn và lời hứa về phần thưởng để thuyết phục người khác theo quan điểm của mình"
+  ],
+  "keywords": [
+    "sang trọng",
+    "thoải mái",
+    "khéo léo",
+    "hào phóng",
+    "thịnh vượng"
+  ],
+  "meanings": {
+    "light": [
+      "Trân trọng những điều tốt đẹp trong cuộc sống như đồ ăn ngon, rượu vang hảo hạng, nghệ thuật đẹp, cơ thể hấp dẫn",
+      "Tận hưởng sự khoái lạc lành mạnh",
+      "Tự thưởng cho bản thân",
+      "Chi tiêu cho những món đồ xa xỉ thỉnh thoảng để làm vui lòng mình",
+      "Thưởng cho ai đó một khoản vượt ngoài mong đợi",
+      "Có được tất cả mọi thứ"
+    ],
+    "shadow": [
+      "Chìm đắm trong tham lam hoặc ham muốn vô độ",
+      "Trở nên không bao giờ cảm thấy đủ",
+      "Làm mất đi sự đặc biệt của những phần thưởng khi lạm dụng chúng quá thường xuyên",
+      "Cung cấp sự thoải mái về vật chất nhưng không đáp ứng nhu cầu cảm xúc",
+      "Để cảm giác đặc quyền bóp méo lòng biết ơn đối với những gì mình có"
+    ]
+  },
+  "Elemental": "Nước trong Đất (Water of Earth).",
+  "Affirmation": "Tôi tận hưởng những điều tốt đẹp nhất mà thế giới mang lại.",
+  "Questions to Ask": [
+    "Tôi định nghĩa sự sang trọng như thế nào?",
+    "Tôi có thể tận hưởng khoái cảm nhục cảm đến mức nào?",
+    "Tôi cần từ bỏ điều gì để có được tất cả?"
+  ]
+}

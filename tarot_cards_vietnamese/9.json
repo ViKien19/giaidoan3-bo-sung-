@@ -1,0 +1,49 @@
+{
+  "name": "Năm Cốc (Five of Cups)",
+  "number": "5",
+  "arcana": "Ẩn Phụ (Minor Arcana)",
+  "suit": "Cốc (Cups)",
+  "img": "9.jpg",
+  "fortune_telling": [
+    "Một cuộc chia tay đang rình rập",
+    "Đừng khóc vì sữa đã đổ",
+    "Chấp nhận khó khăn và tiếp tục tiến lên"
+  ],
+  "keywords": [
+    "mất mát",
+    "tuyệt vọng",
+    "đánh giá lại",
+    "hối tiếc",
+    "bất định",
+    "sám hối"
+  ],
+  "meanings": {
+    "light": [
+      "Chấp nhận mất mát và bước tiếp",
+      "Tập trung vào việc ly vẫn còn 'nửa đầy'",
+      "Tìm ra ánh sáng trong đám mây đen",
+      "Nhận ra mất mát là một phần tự nhiên của cuộc sống",
+      "Chấp nhận nỗi buồn một cách lành mạnh",
+      "Rút ra bài học từ những hậu quả khắc nghiệt",
+      "Trắng: Biểu tượng của sự chữa lành, hy vọng và khả năng nhìn thấy cơ hội trong nghịch cảnh"
+    ],
+    "shadow": [
+      "Đắm chìm trong nỗi buồn không lành mạnh hoặc tự thương hại",
+      "Từ chối buông bỏ và tiến lên",
+      "Bám víu vào quá khứ",
+      "Ám ảnh về những cuộc sống và tình yêu đã qua",
+      "Không sống trong hiện tại",
+      "Tự trách mình vì những sai lầm cũ",
+      "Để nỗi sợ thất bại giới hạn nỗ lực của bạn",
+      "Đen: Biểu tượng của sự u tối, trì trệ và sự kẹt lại trong vòng xoáy của hối tiếc"
+    ]
+  },
+  "Numerology": "5 (Chất xúc tác: bất ổn, kháng cự, đối đầu)",
+  "Astrology": "Hỏa Tinh trong Bọ Cạp (Mars in Scorpio)",
+  "Affirmation": "Tôi học từ những mất mát và bước tiếp.",
+  "Questions to Ask": [
+    "Tôi thường đối mặt với mất mát như thế nào?",
+    "Bài học cuộc sống nào tôi có thể đang học bây giờ?",
+    "Làm sao tôi có thể chuyển sự chú ý từ quá khứ sang tương lai?"
+  ]
+}

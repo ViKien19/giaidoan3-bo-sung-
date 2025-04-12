@@ -1,0 +1,48 @@
+{
+  "name": "Ngôi Sao (The Star)",
+  "number": "17",
+  "arcana": "Ẩn Chính (Major Arcana)",
+  "suit": "Trump",
+  "img": "65.jpg",
+  "fortune_telling": [
+    "Hãy lập một lá số chiêm tinh cho mình",
+    "Ai đó đang quá si mê thần tượng",
+    "Những gì đang xảy ra lúc này đã được định sẵn từ lâu"
+  ],
+  "keywords": [
+    "hy vọng",
+    "lạc quan",
+    "cởi mở",
+    "chắc chắn",
+    "niềm tin",
+    "khát vọng",
+    "sự thật"
+  ],
+  "meanings": {
+    "light": [
+      "Hy vọng vào những điều tốt đẹp nhất",
+      "Tin rằng những điều tốt đẹp sẽ đến với những người tốt",
+      "Nhìn nhận mọi việc theo hướng tích cực nhất",
+      "Sống với một tinh thần rộng lượng",
+      "Tìm kiếm sự hướng dẫn từ thế giới tâm linh",
+      "Chọn lựa khả năng thay vì xác suất"
+    ],
+    "shadow": [
+      "Phủ nhận những sự thật không mong muốn",
+      "Từ chối trách nhiệm cá nhân và nói rằng, \"Mọi thứ chỉ tình cờ xảy ra thôi!\"",
+      "Phớt lờ những dấu hiệu và điềm báo",
+      "Ưa thích ảo tưởng hơn thực tế",
+      "Lan truyền sự bi quan và hẹp hòi trong tâm hồn"
+    ]
+  },
+  "Archetype": "Người Dẫn Đường Thiêng Liêng",
+  "Hebrew Alphabet": "Tzaddi/Móc Câu/90 hoặc, trong một số bộ bài, He[Cửa Sổ]/5",
+  "Numerology": "17 = 1 + 7 = 8 (hành động, chuyển động, nhanh nhẹn)",
+  "Elemental": "Bảo Bình",
+  "Mythical/Spiritual": "Ngôi sao dẫn đường cho Ba nhà thông thái. Aphrodite. Sao Kim. Chòm sao Pleiades. Moses tạo nước từ đá.",
+  "Questions to Ask": [
+    "Đấng bề trên sẽ hướng dẫn tôi làm gì?",
+    "Làm thế nào để tôi bớt tự ti và dè dặt hơn?",
+    "Làm sao để tôi hòa mình tốt hơn với sự phong phú của những phước lành trong cuộc sống?"
+  ]
+}

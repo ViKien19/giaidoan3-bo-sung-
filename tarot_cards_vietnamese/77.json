@@ -1,0 +1,45 @@
+{
+  "name": "Bánh Xe Số Phận (Wheel of Fortune)",
+  "number": "10",
+  "arcana": "Ẩn Chính (Major Arcana)",
+  "suit": "Trump",
+  "img": "77.jpg",
+  "fortune_telling": [
+    "Một số sự kiện nằm ngoài tầm kiểm soát của bạn",
+    "Bạn đã từng trải qua điều này trước đây",
+    "Chuyện gì đã xảy ra khi đó?"
+  ],
+  "keywords": [
+    "may mắn",
+    "ngẫu nhiên",
+    "chu kỳ",
+    "nhân quả",
+    "định mệnh",
+    "xoay chuyển"
+  ],
+  "meanings": {
+    "light": [
+      "Cho phép mọi thứ diễn ra tự nhiên",
+      "Nhìn thấy bức tranh lớn trong những sự kiện hàng ngày",
+      "Tin tưởng vào vận may của mình",
+      "Nhận diện các chu kỳ lặp lại",
+      "Tin rằng 'gieo nhân nào, gặt quả nấy'"
+    ],
+    "shadow": [
+      "Mất tiền vì cờ bạc",
+      "Từ chối nỗ lực để biến kế hoạch thành hiện thực",
+      "Tiếp cận cuộc sống một cách phó mặc",
+      "Chống lại dòng chảy tự nhiên của sự việc"
+    ]
+  },
+  "Archetype": "Số Phận / Định Mệnh",
+  "Hebrew Alphabet": "Koph / Lòng bàn tay / 20",
+  "Numerology": "10 (sự hoàn tất, kết thúc) và 10 = 1 + 0 = 1 (hạt giống, cơ hội)",
+  "Elemental": "Mộc Tinh (Jupiter)",
+  "Mythical/Spiritual": "Thần cơ trong cỗ máy. Deus ex Machina. Clotho, Lachesis và Atropos. Nữ thần Fortuna.",
+  "Questions to Ask": [
+    "Thử thách này nằm trong một mô hình lớn hơn như thế nào?",
+    "Vận may đóng vai trò gì trong hoàn cảnh của tôi?",
+    "Tôi có thể kiểm soát điều gì? Khi nào tôi nên buông bỏ quyền kiểm soát?"
+  ]
+}

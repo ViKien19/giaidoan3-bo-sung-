@@ -1,0 +1,47 @@
+{
+  "name": "Tòa Tháp (The Tower)",
+  "number": "16",
+  "arcana": "Ẩn Chính (Major Arcana)",
+  "suit": "Trump",
+  "img": "67.jpg",
+  "fortune_telling": [
+    "Thảm họa sắp xảy ra",
+    "Hủy kế hoạch và đảo ngược quyết định",
+    "Ai đó muốn hạ bệ bạn",
+    "Đừng kìm nén; hãy nói ra điều bạn thực sự nghĩ"
+  ],
+  "keywords": [
+    "phá hủy",
+    "biến động",
+    "giải thể",
+    "thảm họa",
+    "hủy diệt"
+  ],
+  "meanings": {
+    "light": [
+      "Thoát khỏi những thói quen và tư duy gò bó cũ",
+      "Dọn đường cho sự phát triển mới",
+      "Xua tan ảnh hưởng của cái tôi quá mức",
+      "Quay trở lại những điều căn bản",
+      "Loại bỏ những ảo tưởng gây hại",
+      "Nhận được sự khai sáng bất ngờ"
+    ],
+    "shadow": [
+      "Bám víu vào truyền thống cản trở sự phát triển",
+      "Cố ý làm ngơ trước sự thật",
+      "Từ chối những bằng chứng cho thấy cần thay đổi",
+      "Phớt lờ sự hướng dẫn từ một nguồn cao hơn",
+      "Cố tình thực hiện những hành vi hủy diệt"
+    ]
+  },
+  "Archetype": "Cái Tôi Bị Đánh Đổ",
+  "Hebrew Alphabet": "Pe[as]/Miệng Mở/80",
+  "Numerology": "16 = 1 + 6 = 7 (tâm lý, trí tưởng tượng, công việc nội tâm)",
+  "Elemental": "Hỏa Tinh (Mars)",
+  "Mythical/Spiritual": "Tháp Babel. Sự hủy diệt của Sodom và Gomorrah. Điệu nhảy hủy diệt của Shiva. Tia sét của Zeus và Thor.",
+  "Questions to Ask": [
+    "Tình huống hiện tại có thể thay đổi hoàn toàn quan điểm của tôi như thế nào?",
+    "Mất mát này có thể mở ra cánh cửa cho sự phát triển mới ra sao?",
+    "Những thái độ nào cần bị xóa bỏ trước khi tôi tiếp tục?"
+  ]
+}

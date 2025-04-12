@@ -1,0 +1,41 @@
+{
+  "name": "Bảy Cốc (Seven of Cups)",
+  "number": "7",
+  "arcana": "Ẩn Phụ (Minor Arcana)",
+  "suit": "Cốc (Cups)",
+  "img": "39.jpg",
+  "fortune_telling": [
+    "Bạn đang bị lừa dối",
+    "Thay vì bị choáng ngợp bởi lời nói hoa mỹ và lời hứa, hãy yêu cầu một điều gì đó thực tế"
+  ],
+  "keywords": [
+    "tưởng tượng",
+    "ước mơ",
+    "ảo tưởng",
+    "mục tiêu"
+  ],
+  "meanings": {
+    "light": [
+      "Kích thích bản thân với hình ảnh thành công trong tương lai",
+      "Sử dụng hình dung để khuyến khích tiến bộ",
+      "Tiếp cận vấn đề bằng cách sáng tạo hoặc tưởng tượng",
+      "Biến ước mơ thành hiện thực",
+      "Rút ra sự hiểu biết từ những hình ảnh cá nhân"
+    ],
+    "shadow": [
+      "Ám ảnh bởi những nỗi sợ hư cấu hoặc hậu quả không chắc chắn",
+      "Đầu hàng trước chủ nghĩa khủng bố tình cảm hoặc chính trị",
+      "Dành quá nhiều thời gian mơ mộng thay vì làm việc",
+      "Không tưởng tượng được những hậu quả có thể xảy ra từ lựa chọn của mình",
+      "Bị điều khiển bởi nỗi sợ"
+    ]
+  },
+  "Numerology": "7 (Động lực: tưởng tượng, công việc bên trong, tâm lý học)",
+  "Astrology": "Sao Kim trong Bọ Cạp",
+  "Affirmation": "\"Tôi sử dụng tầm nhìn bên trong như một công cụ để phát triển.\"",
+  "Questions to Ask": [
+    "Bạn muốn gì nhất? Bạn sợ gì nhất? Những điều này có liên quan gì không?",
+    "Sự tưởng tượng của bạn đang làm việc cho bạn hay chống lại bạn?",
+    "Làm thế nào một tầm nhìn cá nhân rõ ràng có thể giúp bạn chọn một chiếc cốc duy nhất từ nhiều lựa chọn?"
+  ]
+}

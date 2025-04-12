@@ -1,0 +1,40 @@
+{
+  "name": "Kỵ Sĩ Cốc (Knight of Cups)",
+  "number": "12",
+  "arcana": "Ẩn Phụ (Minor Arcana)",
+  "suit": "Cốc (Cups)",
+  "img": "23.jpg",
+  "fortune_telling": [
+    "Lá bài này đại diện cho một người đàn ông có tính cách nhạy cảm, giàu cảm xúc, có thể sinh từ ngày 13 tháng 10 đến ngày 11 tháng 11, người mong muốn bạn ủng hộ lý tưởng đầy đam mê của anh ấy"
+  ],
+  "keywords": [
+    "nhiệt huyết",
+    "sốt sắng",
+    "tính khí thất thường",
+    "khai sáng"
+  ],
+  "meanings": {
+    "light": [
+      "Hết lòng cống hiến cho một lý tưởng",
+      "Chìm đắm trong cảm xúc mạnh mẽ, từ phấn khích đến u sầu",
+      "Hành động chỉ dựa vào trực giác",
+      "Giải quyết vấn đề bằng trực giác",
+      "Tin tưởng và đưa ra quyết định dựa trên lý tưởng thay vì thực tế",
+      "Mang trực giác hoặc đam mê vào công việc"
+    ],
+    "shadow": [
+      "Trở nên cuồng tín",
+      "Phớt lờ thông tin trái ngược với trực giác của mình",
+      "Để cảm xúc chi phối hoàn toàn",
+      "Dễ bị ghen tuông, đối đầu và chịu áp lực từ bạn bè",
+      "Che giấu hoặc phớt lờ những linh cảm trực giác"
+    ]
+  },
+  "Elemental": "Không Khí của Nước (Air of Water)",
+  "Affirmation": "Tôi biến đam mê thành hành động.",
+  "Questions to Ask": [
+    "Bạn có dễ bị ảnh hưởng bởi những cảm xúc cực đoan không?",
+    "Sự khác biệt giữa đam mê dẫn dắt và cuồng tín mù quáng là gì?",
+    "Làm thế nào để bạn truyền cảm hứng cho người khác mà không gây ra hỗn loạn?"
+  ]
+}

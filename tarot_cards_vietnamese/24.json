@@ -1,0 +1,45 @@
+{
+  "name": "Kỵ Sĩ Tiền (Knight of Pentacles)",
+  "number": "12",
+  "arcana": "Ẩn Phụ (Minor Arcana)",
+  "suit": "Tiền (Pentacles)",
+  "img": "24.jpg",
+  "fortune_telling": [
+    "Một người keo kiệt có thể trách móc bạn vì tiêu tiền",
+    "Hãy chuẩn bị để bảo vệ quyết định kinh tế hoặc tình cảm của bạn"
+  ],
+  "keywords": [
+    "thận trọng",
+    "tập trung",
+    "hiện thực",
+    "sáng tạo"
+  ],
+  "meanings": {
+    "light": [
+      "Chi tiêu tiền bạc một cách khôn ngoan",
+      "Tiết kiệm cho những lúc khó khăn",
+      "Chú ý cẩn thận đến các chi tiết tài chính hoặc vật chất",
+      "Biết rõ từng khoản chi tiêu",
+      "Quan hệ tình dục an toàn",
+      "Ưu tiên sự thật hơn là cảm giác mơ hồ",
+      "Tìm cách sáng tạo để tận dụng tối đa các nguồn lực sẵn có",
+      "Hoàn thành một phát minh mới"
+    ],
+    "shadow": [
+      "Bất chấp mọi rủi ro",
+      "Chi tiêu mà không nghĩ đến hậu quả",
+      "Mua sắm xa xỉ khi những nhu cầu cơ bản chưa được đáp ứng",
+      "Giải tỏa căng thẳng bằng cách tiêu tiền",
+      "Ám ảnh với những chi tiết tài chính nhỏ nhặt",
+      "Luôn chạy theo những món đồ mới lạ",
+      "Sao chép công việc của người khác và nhận đó là của mình"
+    ]
+  },
+  "Elemental": "Không Khí của Đất (Air of Earth)",
+  "Affirmation": "Tôi hành động với sự thận trọng và lạc quan.",
+  "Questions to Ask": [
+    "Sự khác biệt giữa thận trọng và sợ hãi là gì?",
+    "Làm thế nào tôi có thể đánh giá tính thực tiễn của ý tưởng và phương pháp của mình?",
+    "Mục tiêu của tôi thực tế đến mức nào?"
+  ]
+}

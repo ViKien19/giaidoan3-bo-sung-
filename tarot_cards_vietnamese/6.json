@@ -1,0 +1,45 @@
+{
+  "name": "Tám Tiền",
+  "number": "8",
+  "arcana": "Tiểu Bí Ẩn",
+  "suit": "Tiền",
+  "img": "6.jpg",
+  "fortune_telling": [
+    "Ngừng phân tích, nghiên cứu và lập kế hoạch quá mức",
+    "Hãy tập trung và hoàn thành công việc"
+  ],
+  "keywords": [
+    "nỗ lực",
+    "siêng năng",
+    "kỹ năng"
+  ],
+  "meanings": {
+    "light": [
+      "Làm việc hết sức mình",
+      "Mang nhiệt huyết và đam mê vào công việc",
+      "Cố gắng trở thành phiên bản tốt nhất của bản thân",
+      "Tìm được công việc phù hợp với mình",
+      "Chú ý đến từng chi tiết nhỏ",
+      "Trở thành một người thợ lành nghề",
+      "Tự tay xây dựng một thứ gì đó",
+      "Tạo ra một món quà thủ công đầy ý nghĩa"
+    ],
+    "shadow": [
+      "Làm việc đến kiệt sức",
+      "Làm việc qua loa hoặc cẩu thả",
+      "Tiếp tục một công việc mà bạn ghét",
+      "Mua quà tặng một cách hời hợt, thiếu suy nghĩ",
+      "Sản xuất ra những sản phẩm kém chất lượng",
+      "Vội vàng hoàn thành công việc mà không chú ý đến chất lượng",
+      "Từ chối cơ hội học hỏi để cải thiện kỹ năng"
+    ]
+  },
+  "Numerology": "8 (Hành động: sự chuyển động, công việc bên ngoài, tốc độ)",
+  "Astrology": "Mặt Trời trong Xử Nữ",
+  "Affirmation": "\"Tôi toàn tâm toàn ý với công việc trước mắt.\"",
+  "Questions to Ask": [
+    "Đã bao lâu rồi tôi không còn đắm chìm vào công việc?",
+    "Làm thế nào để tôi cải thiện mức độ tập trung và tận tâm?",
+    "Tôi làm công việc gì tốt nhất? Điều gì ở công việc đó khiến tôi yêu thích?"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Năm Kiếm (Five of Swords)",
+  "number": "5",
+  "arcana": "Ẩn Phụ (Minor Arcana)",
+  "suit": "Kiếm (Swords)",
+  "img": "11.jpg",
+  "fortune_telling": [
+    "Ai đó đang đánh cắp từ bạn, về tài chính hoặc tình cảm",
+    "Cẩn thận với những người bạn nói xấu sau lưng bạn"
+  ],
+  "keywords": [
+    "ích kỷ",
+    "thù địch",
+    "phi lý",
+    "tự bảo vệ"
+  ],
+  "meanings": {
+    "light": [
+      "Hành động vì lợi ích tốt nhất của bản thân",
+      "Chọn cách đứng lên bảo vệ chính mình",
+      "Không lùi bước trước sự bất đồng và xung đột",
+      "Giữ vững lập trường",
+      "Từ chối tham gia vào một kế hoạch không đạo đức",
+      "Biết khi nào cần linh hoạt với các quy tắc",
+      "Thể hiện sự tự tin và lòng can đảm để bảo vệ giá trị cá nhân",
+      "Sử dụng trí khôn để vượt qua xung đột thay vì bạo lực",
+      "Tìm cách chiến thắng mà vẫn giữ được sự chính trực"
+    ],
+    "shadow": [
+      "Lợi dụng người khác",
+      "Đe dọa người khác",
+      "Hành động một cách thiếu đạo đức",
+      "Gây gổ vô cớ",
+      "Dùng lời nói để kích động người khác trở nên bạo lực và phi lý",
+      "Phớt lờ các quy tắc bạn đã đồng ý tuân theo",
+      "Chỉ lo cho bản thân mà để người khác chịu tổn thương",
+      "Khoe khoang về chiến thắng",
+      "Thể hiện sự nhỏ nhen và hả hê trên nỗi đau của người khác",
+      "Gây ra sự cô lập tinh thần do hành vi ích kỷ và thù địch"
+    ]
+  },
+  "Numerology": "5 (Chất xúc tác: bất ổn, kháng cự, đối đầu)",
+  "Astrology": "Kim Tinh trong Bảo Bình (Venus in Aquarius)",
+  "Affirmation": "Ngay cả khi tôi chăm sóc bản thân, tôi vẫn quan tâm đến nhu cầu của người khác.",
+  "Questions to Ask": [
+    "Tôi cư xử thế nào khi chiến thắng? Điều đó nói gì về tôi?",
+    "Làm sao tôi có thể làm điều cần thiết mà không khiến người khác cảm thấy thất bại?",
+    "Sự khác biệt giữa hành động ích kỷ và hành động vì lợi ích tốt nhất của tôi là gì?"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Cái Chết",
+  "number": "13",
+  "arcana": "Đại Bí Ẩn",
+  "suit": "Lá Chủ",
+  "img": "4.jpg",
+  "fortune_telling": [
+    "Một mối quan hệ hoặc căn bệnh đột ngột kết thúc",
+    "Hạn chế đi lại và tránh rủi ro",
+    "Cảm giác u ám và bất an"
+  ],
+  "keywords": [
+    "kết thúc",
+    "hoàn thành",
+    "chuyển đổi",
+    "bước ngoặt",
+    "rời bỏ"
+  ],
+  "meanings": {
+    "light": [
+      "Chấm dứt một giai đoạn khó khăn trong cuộc sống",
+      "Nhận ra và tôn vinh sự hoàn thành của một điều gì đó",
+      "Từ bỏ những thói quen xấu",
+      "Trở thành một con người mới, mạnh mẽ hơn",
+      "Từ bỏ một người, một nơi chốn hoặc một tình huống để tiến về phía trước",
+      "Buông bỏ quá khứ và đón nhận tương lai",
+      "Học cách chấp nhận sự thay đổi như một phần tự nhiên của cuộc sống",
+      "Biết khi nào cần dừng lại để chuẩn bị cho một khởi đầu mới",
+      "Thoát khỏi những ràng buộc cũ để tìm kiếm sự tự do",
+      "Nhận ra rằng sự kết thúc không phải là mất mát, mà là một sự chuyển giao",
+      "Tận dụng bài học từ những gì đã kết thúc để xây dựng tương lai",
+      "Học cách đối diện với nỗi sợ về sự thay đổi"
+    ],
+    "shadow": [
+      "Ám ảnh với cái chết và sự kết thúc một cách tiêu cực",
+      "Không chịu từ bỏ thói quen cũ hoặc các mối quan hệ độc hại",
+      "Cố gắng kiểm soát mọi thứ vì sợ sự thay đổi",
+      "Cảm thấy mất phương hướng khi một điều gì đó chấm dứt",
+      "Sống trong quá khứ và từ chối tiến về phía trước",
+      "Tự cô lập bản thân vì sợ hãi sự chuyển đổi",
+      "Không chăm sóc tốt cho sức khỏe tinh thần và thể chất",
+      "Sợ hãi trước sự thay đổi đến mức ngăn cản sự phát triển của bản thân",
+      "Cố gắng giữ mọi thứ không thay đổi thay vì chấp nhận dòng chảy tự nhiên của cuộc sống",
+      "Bỏ lỡ cơ hội tái sinh vì bám víu vào những gì đã qua",
+      "Bị mắc kẹt trong những cảm xúc tiêu cực và không tìm cách chữa lành",
+      "Từ chối nhìn nhận sự thật rằng một số điều đã đến hồi kết thúc"
+    ]
+  },
+  "Archetype": "Cái Chết",
+  "Hebrew Alphabet": "Nun/Cá/50",
+  "Numerology": "13 = 1 + 3 = 4 (ổn định, kiên trì)",
+  "Elemental": "Bọ Cạp",
+  "Mythical/Spiritual": "Chúa Kitô trong mộ. Hades. Hypnos. Thanatos. Những câu chuyện về hành trình xuống địa ngục.",
+  "Questions to Ask": [
+    "Điều gì cần phải kết thúc?",
+    "Làm thế nào một sự kết thúc có thể trở thành một phước lành trong tình huống này?",
+    "Bước tiếp theo của tôi là gì?"
+  ]
+}

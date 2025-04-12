@@ -1,0 +1,42 @@
+{
+  "name": "Hai Kiếm (Two of Swords)",
+  "number": "2",
+  "arcana": "Ẩn Phụ (Minor Arcana)",
+  "suit": "Kiếm (Swords)",
+  "img": "75.jpg",
+  "fortune_telling": [
+    "Đôi khi, cách duy nhất để chiến thắng là từ chối chiến đấu",
+    "Bạn đang bị mắc kẹt; hãy để thời gian trôi qua trước khi hành động"
+  ],
+  "keywords": [
+    "chối bỏ",
+    "tranh luận",
+    "bế tắc",
+    "ngừng chiến"
+  ],
+  "meanings": {
+    "light": [
+      "Từ chối đưa ra quyết định khi chưa có đủ thông tin",
+      "Xem xét cả hai mặt của một vấn đề",
+      "Tranh luận một cách nhiệt huyết về điều bạn tin tưởng",
+      "Cân nhắc kỹ lưỡng các vấn đề",
+      "Khuyến khích trao đổi ý kiến một cách cởi mở",
+      "Thảo luận về chính trị hoặc tôn giáo mà không để cảm xúc lấn át lý trí"
+    ],
+    "shadow": [
+      "Từ chối những bằng chứng mâu thuẫn với niềm tin cố hữu",
+      "Tranh luận với người khác chỉ để gây sự",
+      "Bới móc từng chi tiết nhỏ nhặt",
+      "Trì hoãn quyết định vì sợ phải đối mặt với hậu quả",
+      "Ngăn cản người khác tiếp cận thông tin cần thiết để đưa ra quyết định đúng đắn"
+    ]
+  },
+  "Numerology": "2 (Người khác: nhị nguyên, chia rẽ, tranh luận)",
+  "Astrology": "Mặt Trăng trong Thiên Bình (Moon in Libra)",
+  "Affirmation": "\"Tôi luôn cố gắng nhìn nhận mọi khía cạnh của vấn đề.\"",
+  "Questions to Ask": [
+    "Tôi cần thêm thông tin gì để vượt qua bế tắc này?",
+    "Làm thế nào để tôi gạt bỏ sự phòng thủ và nhìn vào sự thật?",
+    "Những quan điểm nào khác ngoài quan điểm của tôi đang tác động đến tình huống này?"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Chín Ly (Nine of Cups)",
+  "number": "9",
+  "arcana": "Ẩn Phụ (Minor Arcana)",
+  "suit": "Ly (Cups)",
+  "img": "27.jpg",
+  "fortune_telling": [
+    "Bất cứ điều gì bạn muốn, bạn sẽ đạt được"
+  ],
+  "keywords": [
+    "sự hài lòng",
+    "cảm giác tận hưởng",
+    "sang trọng",
+    "khoái lạc"
+  ],
+  "meanings": {
+    "light": [
+      "Hạnh phúc với những thành tựu của bản thân",
+      "Nhận ra tài năng và khả năng của mình",
+      "Tận hưởng những điều tốt đẹp mà cuộc sống mang lại",
+      "Nuông chiều bản thân",
+      "Thư giãn và tận hưởng cuộc sống",
+      "Có đầy đủ mọi thứ để cảm thấy trọn vẹn"
+    ],
+    "shadow": [
+      "Tự mãn một cách thái quá",
+      "Thỏa mãn bản thân nhưng làm tổn thương người khác",
+      "Ích kỷ",
+      "Quá đắm chìm trong sự hưởng thụ",
+      "Trốn tránh công việc cần phải làm",
+      "Nhận vơ thành tựu hoặc kỹ năng mà mình không có",
+      "Không bao giờ cảm thấy hài lòng dù có bao nhiêu đi chăng nữa"
+    ]
+  },
+  "Numerology": "9 (Sự Hoàn Thành: viên mãn, sẵn sàng, chín muồi)",
+  "Astrology": "Mộc tinh trong Song Ngư (Jupiter in Pisces)",
+  "Affirmation": "Tôi có tất cả những gì mình cần để hạnh phúc.",
+  "Questions to Ask": [
+    "Hạnh phúc thực sự là gì?",
+    "Nếu tôi có thể có bất cứ thứ gì, tôi sẽ chọn gì?",
+    "Thái độ của tôi đối với sự xa hoa là gì? Tôi có xứng đáng với nó không?"
+  ]
+}

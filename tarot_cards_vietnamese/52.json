@@ -1,0 +1,41 @@
+{
+  "name": "Mười Cây Que (Ten of Wands)",
+  "number": "10",
+  "arcana": "Ẩn Chính (Minor Arcana)",
+  "suit": "Cây Que (Wands)",
+  "img": "52.jpg",
+  "fortune_telling": [
+    "Bạn đang mệt mỏi",
+    "Hãy nghỉ ngơi, tạm dừng lại và để người khác xử lý công việc trong một thời gian"
+  ],
+  "keywords": [
+    "kiệt sức",
+    "kháng cự",
+    "gánh nặng",
+    "áp bức"
+  ],
+  "meanings": {
+    "light": [
+      "Giữ vững trong hoàn cảnh khắc nghiệt",
+      "Giúp đỡ người khác mang vác gánh nặng",
+      "Đến hỗ trợ những người bị áp bức",
+      "Biết và thành thật về giới hạn của chính mình",
+      "Nhận ra khi bạn không phù hợp với một công việc nhất định"
+    ],
+    "shadow": [
+      "Đảm nhận công việc nhiều hơn mức bạn có thể xử lý",
+      "Từ chối nói \"Không\" khi bạn đã quá tải",
+      "Làm việc quá giờ một cách thường xuyên",
+      "Che giấu cho người khác không phải đối mặt với hậu quả của quyết định sai lầm của họ",
+      "Làm việc quá sức liên tục"
+    ]
+  },
+  "Numerology": "10 (Sự Kết Thúc: kết thúc, hoàn thành, kiệt sức)",
+  "Astrology": "Saturn trong Nhân Mã",
+  "Affirmation": "\"Tôi tôn trọng giới hạn của chính mình.\"",
+  "Questions to Ask": [
+    "Làm sao để biết khi nào bạn đã đạt đến giới hạn của mình?",
+    "Bạn có dễ dàng nói không với các dự án và yêu cầu mới không?",
+    "Dự án nào bạn có thể phân công cho người khác... hoặc loại bỏ?"
+  ]
+}

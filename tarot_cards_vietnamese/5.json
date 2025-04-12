@@ -1,0 +1,47 @@
+{
+  "name": "Tám Cốc",
+  "number": "8",
+  "arcana": "Tiểu Bí Ẩn",
+  "suit": "Cốc",
+  "img": "5.jpg",
+  "fortune_telling": [
+    "Ai đó có thể sẽ rời bỏ bạn trong hiện tại hoặc tương lai gần",
+    "Có lẽ đã đến lúc ngừng nói về vấn đề và đơn giản là bước tiếp"
+  ],
+  "keywords": [
+    "khao khát",
+    "bất mãn",
+    "hành trình",
+    "rời đi",
+    "thu mình"
+  ],
+  "meanings": {
+    "light": [
+      "Khao khát một điều gì đó tốt đẹp hơn",
+      "Tự tạo con đường riêng cho mình",
+      "Nhận ra rằng cuộc sống còn nhiều điều hơn thế",
+      "Rời bỏ một tình huống không lành mạnh",
+      "Bắt đầu công việc kinh doanh của riêng mình",
+      "Tham gia một chuyến đi tĩnh tâm",
+      "Tìm kiếm tiếng nói nội tâm"
+    ],
+    "shadow": [
+      "Không thể làm hài lòng",
+      "Luôn tìm ra lỗi sai",
+      "Bới móc từng chi tiết nhỏ",
+      "Từ chối cam kết hoặc ổn định",
+      "Trốn chạy khỏi vấn đề hoặc đối đầu",
+      "Cứng nhắc với quan điểm cá nhân, không chấp nhận thỏa hiệp",
+      "Luôn gợi nhắc về những sai lầm và thất vọng trong quá khứ",
+      "Dọa rời bỏ hoặc từ bỏ như một cách để kiểm soát tình huống"
+    ]
+  },
+  "Numerology": "8 (Hành động: sự chuyển động, công việc bên ngoài, tốc độ)",
+  "Astrology": "Sao Thổ trong Song Ngư",
+  "Affirmation": "\"Tôi luôn sẵn sàng đón nhận những cơ hội để phát triển.\"",
+  "Questions to Ask": [
+    "Điều gì tôi cần rời bỏ một lần và mãi mãi?",
+    "Nếu tôi ra đi để tìm kiếm điều gì đó \"nhiều hơn\", thì đó chính xác là gì?",
+    "Một khoảng thời gian tĩnh tâm có thể giúp tôi thay đổi góc nhìn như thế nào?"
+  ]
+}

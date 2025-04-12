@@ -1,0 +1,46 @@
+{
+  "name": "Quỷ Dữ (The Devil)",
+  "number": "15",
+  "arcana": "Ẩn Chính (Major Arcana)",
+  "suit": "Trump",
+  "img": "54.jpg",
+  "fortune_telling": [
+    "Ngoại tình và sự không chung thủy",
+    "Một chuỗi vận rủi cực kỳ tệ hại đang đến",
+    "Hãy cẩn thận với những ảnh hưởng xấu và kẻ giả dạng thiện lành"
+  ],
+  "keywords": [
+    "bóng tối",
+    "chủ nghĩa vật chất",
+    "ràng buộc",
+    "ảo tưởng"
+  ],
+  "meanings": {
+    "light": [
+      "Trân trọng những xa hoa mà cuộc sống mang lại",
+      "Cảm thấy thoải mái với chính bản thân",
+      "Tận hưởng đời sống tình dục của mình",
+      "Chi tiêu mạnh tay cho một món đồ cá nhân đắt đỏ",
+      "Chấp nhận rằng ai cũng có mặt tối của mình",
+      "Kiểm soát những ham muốn không lành mạnh một cách hợp lý"
+    ],
+    "shadow": [
+      "Quá coi trọng vẻ bề ngoài",
+      "Luôn muốn có nhiều hơn nữa",
+      "Xem trọng vật chất hơn con người và mối quan hệ",
+      "Để bản năng thấp kém chi phối cuộc sống",
+      "Ích kỷ, chỉ biết nghĩ cho bản thân",
+      "Đổ lỗi cho ngoại cảnh hoặc người khác về những ham muốn đen tối của mình"
+    ]
+  },
+  "Archetype": "Bóng Tối, Mặt Khác",
+  "Hebrew Alphabet": "Ayin/Mắt/70",
+  "Numerology": "15 = 1 + 5 = 6 (điều chỉnh, cộng tác)",
+  "Elemental": "Ma Kết",
+  "Mythical/Spiritual": "Chắc chắn là quỷ Satan trong Kinh Thánh. Các thiên thần sa ngã, bao gồm Lucifer. Bacchus và Pan. Những kẻ cám dỗ và rắn xảo quyệt trong mọi hình thái.",
+  "Questions to Ask": [
+    "Điều gì đang trói buộc tôi? Làm sao tôi có thể giải thoát bản thân?",
+    "Tôi có cần xem lại mức độ quan trọng của vật chất trong cuộc sống không?",
+    "Liệu những ham muốn của tôi có đang định nghĩa con người tôi?"
+  ]
+}

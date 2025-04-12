@@ -1,0 +1,47 @@
+{
+  "name": "Vua Kiếm (King of Swords)",
+  "number": "14",
+  "arcana": "Ẩn Phụ (Minor Arcana)",
+  "suit": "Kiếm (Swords)",
+  "img": "21.jpg",
+  "fortune_telling": [
+    "Lá bài này đại diện cho một người đàn ông lớn tuổi với tinh thần sâu sắc, cẩn trọng, có thể sinh từ ngày 11 tháng 5 đến ngày 10 tháng 6, người được biết đến với sự chính trực và khả năng đưa ra quyết định sắc bén"
+  ],
+  "keywords": [
+    "thiên tài",
+    "chuyên môn",
+    "quyết định",
+    "phán quyết"
+  ],
+  "meanings": {
+    "light": [
+      "Thể hiện bản thân với sự kiên định và quyền uy",
+      "Đưa ra quyết định cuối cùng",
+      "Tham khảo ý kiến chuyên gia",
+      "Mời cố vấn và chuyên viên tư vấn",
+      "Đi đến kết luận cuối cùng",
+      "Đạt được thỏa thuận có lợi dựa trên thông tin đáng tin cậy",
+      "Sử dụng trí tuệ để giải quyết vấn đề một cách công bằng",
+      "Duy trì sự rõ ràng và logic trong mọi tình huống",
+      "Truyền đạt sự thật với sự tự tin và chính xác"
+    ],
+    "shadow": [
+      "Cố chấp muốn có tiếng nói cuối cùng",
+      "Phô trương khả năng trí tuệ của mình",
+      "Nói chuyện vượt quá tầm hiểu biết của người khác",
+      "Do dự với một quyết định quan trọng",
+      "Liên tục thay đổi ý kiến",
+      "Từ chối đưa ra lựa chọn có lợi cho bản thân",
+      "Hối tiếc vô ích vì những lời đã nói ra",
+      "Dùng sự thông minh để áp đảo thay vì nâng đỡ người khác",
+      "Mất đi sự nhất quán do thiếu quyết đoán"
+    ]
+  },
+  "Elemental": "Lửa của Không Khí (Fire of Air)",
+  "Affirmation": "Lời nói của tôi là cam kết của tôi.",
+  "Questions to Ask": [
+    "Quyết định của bạn sẽ là gì nếu bạn phải đưa ra một phán quyết ràng buộc ngay bây giờ?",
+    "Bạn cảm thấy thoải mái đến mức nào khi nói chính xác điều mình nghĩ? Bạn có thường kiềm chế lời nói vì sợ làm phật lòng người khác không?",
+    "Nếu hỏi người khác, 'Lĩnh vực chuyên môn của tôi là gì?' họ sẽ trả lời ra sao?"
+  ]
+}

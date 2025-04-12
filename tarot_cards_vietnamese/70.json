@@ -1,0 +1,44 @@
+{
+  "name": "Ba of Pentacles",
+  "number": "3",
+  "arcana": "Minor Arcana",
+  "suit": "Pentacles",
+  "img": "70.jpg",
+  "fortune_telling": [
+    "Một hợp đồng giá trị cao đang chờ bạn",
+    "Nếu bạn làm việc chăm chỉ, bạn sẽ thành công"
+  ],
+  "keywords": [
+    "biểu đạt",
+    "sản xuất",
+    "công việc",
+    "đóng góp"
+  ],
+  "meanings": {
+    "light": [
+      "Hoàn thành một dự án",
+      "Đặt ra và đạt được các tiêu chuẩn",
+      "Làm việc theo đúng yêu cầu",
+      "Tạo ra thứ gì đó có giá trị đối với người khác",
+      "Phát triển một điều mới mẻ",
+      "Hoàn thành trách nhiệm trong một dự án nhóm",
+      "Cung cấp chính xác những gì người khác yêu cầu"
+    ],
+    "shadow": [
+      "Chỉ làm hài lòng thị hiếu của người khác",
+      "Không hoàn thành những gì đã hứa",
+      "Chỉ làm việc tốt khi có người giám sát",
+      "Phớt lờ hoặc phá vỡ cam kết với những người đã đặt niềm tin vào bạn",
+      "Từ chối làm phần việc của mình",
+      "Không tuân theo thỏa thuận đã được đề ra giữa bản thân và người khác"
+    ]
+  },
+  "Numerology": "3 (Kết quả: biểu đạt, năng suất, thành quả)",
+  "Astrology": "Sao Hỏa ở Ma Kết",
+  "Affirmation": "\"Công việc của tôi tạo ra kết quả.\"",
+  "Questions to Ask": [
+    "Làm thế nào để tôi có thể hoàn thành nhiều việc hơn?",
+    "Kỳ vọng đối với tôi là gì? Tôi có thể kiểm soát những kỳ vọng đó đến mức nào?",
+    "Những thỏa thuận nào đã được thiết lập? Chúng đã được tuân thủ ra sao?"
+  ]
+}

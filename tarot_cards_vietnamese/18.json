@@ -1,0 +1,51 @@
+{
+  "name": "Công Lý (Justice)",
+  "number": "11",
+  "arcana": "Ẩn Chính (Major Arcana)",
+  "suit": "Trump",
+  "img": "18.jpg",
+  "fortune_telling": [
+    "Một phán quyết pháp lý sẽ sớm được đưa ra",
+    "Ai đó đang đưa ra quyết định",
+    "Bạn cần tìm hiểu rõ sự thật"
+  ],
+  "keywords": [
+    "cân bằng",
+    "luật pháp",
+    "công bằng",
+    "khách quan"
+  ],
+  "meanings": {
+    "light": [
+      "Đưa ra quyết định một cách khách quan",
+      "Cân nhắc kỹ lưỡng một vấn đề trước khi hành động",
+      "Phản ứng phù hợp với mức độ của tình huống",
+      "Thu thập tất cả thông tin cần thiết",
+      "Xem xét bằng chứng",
+      "Suy xét cẩn thận",
+      "Tìm kiếm sự thật để đạt được sự công bằng",
+      "Duy trì sự trung lập trong phán xét",
+      "Khôi phục trật tự và hài hòa thông qua lý trí"
+    ],
+    "shadow": [
+      "Đưa ra lời chỉ trích khắc nghiệt",
+      "Ám ảnh với luật lệ và quy định",
+      "Tuân thủ cứng nhắc ngay cả khi điều đó gây hại hoặc phản tác dụng",
+      "Nhầm lẫn giữa quyết định vội vàng và hành động đúng lúc",
+      "Thiên vị một bên",
+      "Sử dụng quyền lực hoặc luật lệ để áp bức người khác",
+      "Mất đi sự linh hoạt vì quá cứng nhắc",
+      "Đánh mất sự công bằng do cảm xúc chi phối"
+    ]
+  },
+  "Archetype": "Bản Ngã (The Id)",
+  "Hebrew Alphabet": "Theth/Rắn/9 hoặc Lamed/Cánh Tay Dang Rộng/30",
+  "Numerology": "11 = 1 + 1 = 2 (tranh luận, nhị nguyên) hoặc 8 (chuyển động, công việc bên ngoài)",
+  "Elemental": "Sư Tử (Leo) hoặc Thiên Bình (Libra)",
+  "Mythical/Spiritual": "Samson. Hercules. Daniel trong hang sư tử. Chúa Kitô vô tội.",
+  "Questions to Ask": [
+    "Làm sao tôi có thể cải thiện kỷ luật bản thân?",
+    "Những hành vi nào đang cám dỗ tôi? Làm sao để tôi chống lại?",
+    "Tôi vẫn đang đấu tranh với những bản năng nào hôm nay?"
+  ]
+}
